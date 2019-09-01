@@ -29,6 +29,8 @@ This is information about the creation of the STEM Club.
 
 
 
+
+
 ## **Next meeting dates:**
 
 Monday, September 9 at 7:15 a.m.
