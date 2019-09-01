@@ -27,10 +27,10 @@ This is information about the creation of the STEM Club.
 ## **[STEM Club Grant Project Article](https://ece.illinois.edu/newsroom/article/34060)**
 
 
-
-
-
-
+  
+  
+  
+  
 ## **Next meeting dates:**
 
 Monday, September 9 at 7:15 a.m.
