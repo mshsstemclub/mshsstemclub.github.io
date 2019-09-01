@@ -5,27 +5,34 @@ layout: default
 ---
 
 The Mahomet-Seymour High School STEM Club's first meeting was Monday, August 26, 2019 at 7:15 a.m. in Mr. Koker's room (B20).
-<br><br><br>
+
+
+
 STEM stands for Science, Technology, Engineering and Mathematics.  
 We plan to make sciency things and talk about STEM and learn about STEM careers.  
 No competition, just fun!  
 Meet in Mr. Koker’s room, B20 on Monday, August 26th at 7:15 am to learn more!
-<br><br><br>
+
+
+
 This is a short video about the STEM club grant that our high school received from the National Science Foundation.
-<br><br>
+
+
 {% include youtube-video.html url="https://www.youtube.com/embed/KlIaY6aWdjo" %}
-<br><br><br>
+
+
+
 This is information about the creation of the STEM Club.
-<br><br>
+
+
+
 [STEM club information](https://ece.illinois.edu/newsroom/article/34060)
-<br><br><br>
-
-Next meeting dates:<br>
-Monday, September 9 at 7:15 a.m.<br>
-Monday, September 16 at 7:15 a.m.<br>
-Monday, September 23 at 7:15 a.m.<br>
-Monday, September 30 at 7:15 a.m.<br>
-<br><br><br><br>
 
 
 
+
+Next meeting dates:
+Monday, September 9 at 7:15 a.m.
+Monday, September 16 at 7:15 a.m.
+Monday, September 23 at 7:15 a.m.
+Monday, September 30 at 7:15 a.m.
