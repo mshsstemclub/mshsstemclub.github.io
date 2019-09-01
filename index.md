@@ -27,7 +27,7 @@ This is information about the creation of the STEM Club.
 
 
 
- ## **[STEM Club Grant Project Article](https://ece.illinois.edu/newsroom/article/34060)**
+## **[STEM Club Grant Project Article](https://ece.illinois.edu/newsroom/article/34060)**
 
 
 
