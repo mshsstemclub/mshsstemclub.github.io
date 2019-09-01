@@ -8,12 +8,12 @@ layout: default
 Their contact information is below.**
 
 
-[Terry Koker](mailto:tkoker@ms.k12.il.us)- Chemistry Teacher
+[Terry Koker](mailto:tkoker@ms.k12.il.us)- Chemistry Teacher                                    
 tkoker@ms.k12.il.us
 
 
 
-[Neal Garrison](mailto:ngarrison@ms.k12.il.us) - Counselor
+[Neal Garrison](mailto:ngarrison@ms.k12.il.us) - Counselor                   
 ngarrison@ms.k12.il.us
 
 
