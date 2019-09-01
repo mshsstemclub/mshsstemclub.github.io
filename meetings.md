@@ -4,7 +4,7 @@ description:
 layout: default
 ---
 
-**The Mahomet-Seymour High School STEM Club will be meeting 
+**The Mahomet-Seymour High School STEM Club will be meeting                 
 on Mondays at 7:15 am in Mr. Koker's room (B20).**
 
 ## **The next meeting dates are:
