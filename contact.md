@@ -3,10 +3,10 @@ title: Contact
 description:
 layout: default
 ---
-[Terry Koker](tkoker@ms.k12.il.us)
+[Terry Koker](mailto:tkoker@ms.k12.il.us) :Chemistry Teacher
 
 
-[Neal Garrison](ngarrison@ms.k12.il.us)
+[Neal Garrison](mailto:ngarrison@ms.k12.il.us)
 
 
 Andrew Walmer  
