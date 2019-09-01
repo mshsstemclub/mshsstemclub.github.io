@@ -4,14 +4,11 @@ description:
 layout: default
 ---
 
-The Mahomet-Seymour High School STEM Club's first meeting was Monday, August 26, 2019 at 7:15 a.m. in Mr. Koker's room (B20).
-
-
 
 **STEM stands for Science, Technology, Engineering and Mathematics.**  
 We plan to make sciency things and talk about STEM and learn about STEM careers.  
 No competition, just fun!  
-Meet in Mr. Koker’s room, B20 on Monday, August 26th at 7:15 am to learn more!
+Meet in Mr. Koker’s room, B20 on Mondays at 7:15 am to learn more!
 
 
 
