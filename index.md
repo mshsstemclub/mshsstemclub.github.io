@@ -15,6 +15,7 @@ Meet in Mr. Koker’s room, B20 on Monday, August 26th at 7:15 am to learn more!
 
 
 
+## **STEM CLUB Grant Video**
 This is a short video about the STEM club grant that our high school received from the National Science Foundation.
 
 
@@ -26,7 +27,7 @@ This is information about the creation of the STEM Club.
 
 
 
-## **[STEM Club Grant Project](https://ece.illinois.edu/newsroom/article/34060)**
+ ## **[STEM Club Grant Project Article](https://ece.illinois.edu/newsroom/article/34060)**
 
 
 
