@@ -18,7 +18,7 @@ ngarrison@ms.k12.il.us
 
 
 
-[Andrew Walmer] (mailto:abwalmer@gmail.com) - Alumni and future educator  
+[Andrew Walmer](mailto:abwalmer@gmail.com) - Alumni and future educator  
 abwalmer@gmail.com
 
 
