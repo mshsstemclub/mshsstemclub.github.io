@@ -8,7 +8,7 @@ layout: default
 **STEM stands for Science, Technology, Engineering and Mathematics.**  
 We plan to make sciency things and talk about STEM and learn about STEM careers.  
 No competition, just fun!  
-Meet in Mr. Koker’s room, B20 on Mondays at 7:15 am to learn more!
+Meet in Mr. Koker’s room (B20) on Mondays at 7:15 am to learn more!
 
 
 
