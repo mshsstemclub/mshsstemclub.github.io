@@ -15,7 +15,7 @@ STEM careers offer intrinsic value, soial value, finanical value, and prestige.
 - STEM careers offer EXTRINSIC value - STEM professionals are in deman, and are some of the highest paid careers.                  
 - STEM careers offer PRESTIGE value - STEM professionals are in occupations that consistently rank among the most prestigious.          
 
-Links to sites where you can look into STEM careers.
+## **Links to sites where you can look into STEM careers.**
 # **OCCUPATIONAL HANDBOOK**
 www.bls.gov/ooh
 - Review these occupation groups for STEM careers:
@@ -30,23 +30,23 @@ www.bls.gov/ooh
 www.sciencebuddies.org
 
 # **A PARTIAL LIST OF STEM CAREERS**
-Actuary
-Audiologist
-Climate Change Analyst
-Computer Programmer
-Computer Software Engineer
-Cytotechnologist
-Data Base Administrator
-Economist
-Electrician
-Geographic Information Systems Technician
-Math Teacher
-Mathematician
-Microsystems Engineer
-Multimedia Artist/Animator
-Nanosystems Engineer
-Physical Therapist
-Remote Sensing Technologist
-Statistician
-Weatherization Installer
-Wind Energy Engineer
+Actuary                             
+Audiologist                          
+Climate Change Analyst                          
+Computer Programmer                           
+Computer Software Engineer                            
+Cytotechnologist                              
+Data Base Administrator                           
+Economist                                   
+Electrician                                     
+Geographic Information Systems Technician                       
+Math Teacher                                        
+Mathematician                                   
+Microsystems Engineer                                       
+Multimedia Artist/Animator                               
+Nanosystems Engineer                                    
+Physical Therapist                                  
+Remote Sensing Technologist                               
+Statistician                                   
+Weatherization Installer                                
+Wind Energy Engineer                                   
