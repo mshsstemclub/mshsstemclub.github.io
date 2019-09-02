@@ -27,7 +27,8 @@ www.bls.gov/ooh
 - Production
 
 # **SCIENCE BUDDIES**
-www.sciencebuddies.org
+(https://www.sciencebuddies.org)
+## **[STEM Club Grant Project Article](https://ece.illinois.edu/newsroom/article/34060)**
 
 # **A partial list of STEM careers**
 Actuary
