@@ -18,27 +18,35 @@ PRESTIGE - STEM professionals are in occupations that consistently rank among th
 Links to sites where you can look into STEM careers.
 # **OCCUPATIONAL HANDBOOK**
 www.bls.gov/ooh
+- Review these occupation groups for STEM careers:
+- Architecture and engineering
+- Computer and Information Technology
+- Healthcare
+- Life, Physical, and Social Science
+- Math
+- Production
 
 # **SCIENCE BUDDIES**
 www.sciencebuddies.org
 
+# **A partial list of STEM careers**
+Actuary
 Audiologist
-Remote Sensing Technologist
-Geographic Information Systems Technician
-Math Teacher
+Climate Change Analyst
+Computer Programmer
+Computer Software Engineer
 Cytotechnologist
 Data Base Administrator
-Microsystems Engineer
 Economist
 Electrician
-Computer Programmer
-Weatherization Installer
-Statistician
-Physical Therapist
-Computer Software Engineer
-Wind Energy Engineer
-Actuary
-Climate Change Analyst
+Geographic Information Systems Technician
+Math Teacher
+Mathematician
+Microsystems Engineer
 Multimedia Artist/Animator
 Nanosystems Engineer
-Mathematician
+Physical Therapist
+Remote Sensing Technologist
+Statistician
+Weatherization Installer
+Wind Energy Engineer
