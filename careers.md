@@ -5,15 +5,15 @@ layout: default
 ---
 
 
-**STEM careers in Science, Technology, Engineering and Mathematics.** 
+## **STEM careers in Science, Technology, Engineering and Mathematics.** 
 
 STEM careers offer more than just a high salary.
 STEM careers offer intrinsic value, soial value, finanical value, and prestige.  
 
-INTRINSIC - STEM professionals are creative problem solvers.
-SOCIAL - STEM professionals collaborate to make a world of difference and shape our future.
-EXTRINSIC - STEM professionals are in deman, and are some of the highest paid careers.
-PRESTIGE - STEM professionals are in occupations that consistently rank among the most prestigious occupations.
+- STEM careers offer INTRINSIC value - STEM professionals are creative problem solvers.                                    
+- STEM careers offer SOCIAL value - STEM professionals collaborate to make a world of difference and shape our future.                
+- STEM careers offer EXTRINSIC value - STEM professionals are in deman, and are some of the highest paid careers.                  
+- STEM careers offer PRESTIGE value - STEM professionals are in occupations that consistently rank among the most prestigious.          
 
 Links to sites where you can look into STEM careers.
 # **OCCUPATIONAL HANDBOOK**
@@ -27,10 +27,9 @@ www.bls.gov/ooh
 - Production
 
 # **SCIENCE BUDDIES**
-(https://www.sciencebuddies.org)
-## **[STEM Club Grant Project Article](https://ece.illinois.edu/newsroom/article/34060)**
+www.sciencebuddies.org
 
-# **A partial list of STEM careers**
+# **A PARTIAL LIST OF STEM CAREERS**
 Actuary
 Audiologist
 Climate Change Analyst
