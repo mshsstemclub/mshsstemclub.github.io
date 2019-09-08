@@ -41,7 +41,8 @@ www.sciencebuddies.org
 Actuary                             
 Air Traffic Controllers                                
 Astronomers                                         
-Audiologist                          
+Audiologist  
+Biomedical Engineers - https://careerinstem.com/product/bioengineer/
 Climate Change Analyst                          
 Computer Programmer                           
 Computer Software Engineer                            
