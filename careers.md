@@ -37,8 +37,13 @@ www.bls.gov/ooh
 # **SCIENCE BUDDIES**
 www.sciencebuddies.org
 
+## **Links to sites where you can look at videos to learn more about STEM careers.**
+https://careerinstem.com/day-in-the-life-videos-of-stem-careers/
+
+
 # **A PARTIAL LIST OF STEM CAREERS**
 Actuary                             
+Aerospace Engineer - https://careerinstem.com/product/aerospace-engineer/
 Air Traffic Controllers                                
 Astronomers                                         
 Audiologist  
