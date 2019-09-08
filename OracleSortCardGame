@@ -29,7 +29,7 @@ Computers follow a pre-determined set of instructions to place objects in the de
 
 **[Bubble Sort](https://www.youtube.com/watch?v=IXLLwm_WN68)** - a method of working with one item at a time and checking to see where it fits by checking it compared to every other item in the list.   
 
-**Insertion Sort** - a method of inserting one item at a time.  This is an easy way to sort.  It is one of the fastest ways to sort small lists.
+**[Insertion Sort](https://www.youtube.com/watch?v=pmDnM9gUxNc)** - a method of inserting one item at a time.  This is an easy way to sort.  It is one of the fastest ways to sort small lists.
 
 **[Merge Sort](https://www.youtube.com/watch?v=JSceec-wEyw)** - a method based on divided the larger group into smaller groups and sorting each smaller group before merging them into a larger group.                                                     
 This method is slower for smaller groups and more ideal for larger groups.  
