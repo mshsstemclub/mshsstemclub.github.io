@@ -11,12 +11,12 @@ layout: default
 
 
 # **[Week 1 Project](https://www.mshsStemClub.com/oraclesortcardgame)**
-Oracle Card game
+Oracle Sort Card Game
 Project leader - Mr. Walmer
 
 
 # **Week 2 Project**
-
+Oracle Sort Card Game Continues
 Project leader - 
 
 
