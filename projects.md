@@ -1,7 +1,7 @@
 ---
 title: Projects
 description:
-layout: default
+layout: navbar
 ---
 
 **The Mahomet-Seymour High School STEM Club provides opportunities for students to participate and lead STEM projects each meeting.** 
