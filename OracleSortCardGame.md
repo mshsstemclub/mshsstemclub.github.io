@@ -18,7 +18,7 @@ Project leader - Mr. Walmer
 
 Computers use algorithms to quickly solve problems.
 
-**An algorithim is a step-by-step procedure to solve a problem.**  
+**An algorithm is a step-by-step procedure to solve a problem.**  
 Computers follow a pre-determined set of instructions to place objects in the desired order.
 
 
