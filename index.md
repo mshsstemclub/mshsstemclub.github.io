@@ -1,7 +1,7 @@
 ---
 title: Home
 description:
-layout: default
+layout: navbar
 ---
 
 
