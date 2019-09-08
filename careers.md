@@ -59,14 +59,14 @@ Dentists
 Economist                                   
 Electrician                                     
 Engineer                                        
-**[Forensic Biochemist](https://careerinstem.com/product/forensic-biochemist/)**
-**[Geneticist](https://careerinstem.com/product/geneticist/)**
+**[Forensic Biochemist](https://careerinstem.com/product/forensic-biochemist/)**                   
+**[Geneticist](https://careerinstem.com/product/geneticist/)**                              
 Geographic Information Systems Technician                       
 Information Officer                                  
 Investment Bankers                                        
 Math Teacher                                        
 Mathematician          
-**[Mechanical Engineer](https://careerinstem.com/product/mechanical-engineer/)**
+**[Mechanical Engineer](https://careerinstem.com/product/mechanical-engineer/)**                       
 Medical Administrator                                    
 Microsystems Engineer                                       
 Multimedia Artist/Animator                               
@@ -78,7 +78,7 @@ Pediatricians
 Physical Therapist                                  
 Psychiatrists                                       
 Remote Sensing Technologist            
-**[Robotics Technician](https://careerinstem.com/product/robotics-technician/)**
+**[Robotics Technician](https://careerinstem.com/product/robotics-technician/)**                   
 Software Engineer                                   
 Statistician                                   
 Surgeons                                               
