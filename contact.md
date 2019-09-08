@@ -1,7 +1,7 @@
 ---
 title: Contact
 description:
-layout: default
+layout: navbar
 ---
 
 **The Mahomet-Seymour High School STEM Club has three sponsors.  
