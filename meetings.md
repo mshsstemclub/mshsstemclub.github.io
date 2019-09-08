@@ -1,7 +1,7 @@
 ---
 title: Meeting Dates and Times
 description:
-layout: default
+layout: navbar
 ---
 
 The Mahomet-Seymour High School STEM Club's first meeting was on August 26, 2019.
