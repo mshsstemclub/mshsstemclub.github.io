@@ -82,6 +82,7 @@ Remote Sensing Technologist
 Software Engineer                                   
 Statistician                                   
 Surgeons                                               
-System Analysts                                            
+System Analysts         
+**[Veterinarian](https://careerinstem.com/product/veterinarian/)**                           
 Weatherization Installer                                
 Wind Energy Engineer                                   
