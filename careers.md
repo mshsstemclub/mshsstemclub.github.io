@@ -60,6 +60,7 @@ Economist
 Electrician                                     
 Engineer                                        
 **[Forensic Biochemist](https://careerinstem.com/product/forensic-biochemist/)**
+**[Geneticist](https://careerinstem.com/product/geneticist/)**
 Geographic Information Systems Technician                       
 Information Officer                                  
 Investment Bankers                                        
