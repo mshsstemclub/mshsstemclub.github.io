@@ -10,7 +10,7 @@ layout: default
 ## **STEM Projects**
 
 
-# **[Week 1 Project](https://www.mshsStemClub.com/oraclesortcardgame.html)**
+# **[Week 1 Project](https://www.mshsstemclub.com/OracleSortCardGame.html)**
 Oracle Sort Card Game
 Project leader - Mr. Walmer
 
