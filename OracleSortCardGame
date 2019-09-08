@@ -20,12 +20,17 @@ Computers use algorithms to quickly solve problems
 
 # **Different Sorting Methods**
 
-Bogo Sort                                               
-Bubble Sort                                            
-Insertion Sort                                               
-Merge Sort                                                   
-Quick Sort                                                        
-Selection Sort                                                            
+**Bogo Sort** -      
+
+**Bubble Sort** -    
+
+**Insertion Sort** - a method of inserting one item at a time.  This is an easy way to sort.  It is one of the fastest ways to sort small lists.
+
+**Merge Sort** -                                                    
+
+**Quick Sort** -                                                         
+
+**Selection Sort** - a method based on selection.  This is an easy way to sort, but slow for large lists.                                                           
 
 
 Using a card game created by Dr. Lynford Goddard the STEM club members tried their own method to sort 8 cards.  
