@@ -8,12 +8,14 @@ layout: default
 ## **STEM careers in Science, Technology, Engineering and Mathematics.** 
 
 STEM careers offer more than just a high salary.
-STEM careers offer intrinsic value, soial value, finanical value, and prestige.  
+STEM careers offer intrinsic value, social value, finanical value, and prestige.  
 
 - STEM careers offer INTRINSIC value - STEM professionals are creative problem solvers.                                    
 - STEM careers offer SOCIAL value - STEM professionals collaborate to make a world of difference and shape our future.                
 - STEM careers offer EXTRINSIC value - STEM professionals are in deman, and are some of the highest paid careers.                  
 - STEM careers offer PRESTIGE value - STEM professionals are in occupations that consistently rank among the most prestigious.          
+
+https://www.youtube.com/watch?v=3bnMBhO0LnU
 
 ## **Links to sites where you can look into STEM careers.**
 # **OCCUPATIONAL HANDBOOK**
@@ -31,22 +33,38 @@ www.sciencebuddies.org
 
 # **A PARTIAL LIST OF STEM CAREERS**
 Actuary                             
+Air Traffic Controllers                                
+Astronomers                                         
 Audiologist                          
 Climate Change Analyst                          
 Computer Programmer                           
 Computer Software Engineer                            
 Cytotechnologist                              
 Data Base Administrator                           
+Data Communications                                
+Dentists                                             
 Economist                                   
 Electrician                                     
+Engineer                                        
 Geographic Information Systems Technician                       
+Information Officer                                  
+Investment Bankers                                        
 Math Teacher                                        
 Mathematician                                   
+Medical Administrator                                    
 Microsystems Engineer                                       
 Multimedia Artist/Animator                               
 Nanosystems Engineer                                    
+Nurse                                            
+Oral Surgeons                                         
+Orthodontists                                                
+Pediatricians                                              
 Physical Therapist                                  
+Psychiatrists                                       
 Remote Sensing Technologist                               
+Software Engineer                                   
 Statistician                                   
+Surgeons                                               
+System Analysts                                            
 Weatherization Installer                                
 Wind Energy Engineer                                   
