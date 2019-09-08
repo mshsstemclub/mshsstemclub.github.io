@@ -43,15 +43,16 @@ https://careerinstem.com/day-in-the-life-videos-of-stem-careers/
 
 # **A PARTIAL LIST OF STEM CAREERS**
 Actuary                             
-Aerospace Engineer - https://careerinstem.com/product/aerospace-engineer/
+Aerospace Engineer - https://careerinstem.com/product/aerospace-engineer/   
+**[Areospace Engineer](https://careerinstem.com/product/aerospace-engineer/)**         
 Air Traffic Controllers                                
 Astronomers                                         
 Audiologist  
-Biomedical Engineers - https://careerinstem.com/product/bioengineer/
+Biomedical Engineers - https://careerinstem.com/product/bioengineer/                   
 Climate Change Analyst                          
 Computer Programmer                           
 Computer Software Engineer 
-Cyber Security Analyst - https://careerinstem.com/product/cyber-security-analyst/
+Cyber Security Analyst - https://careerinstem.com/product/cyber-security-analyst/               
 Cytotechnologist                              
 Data Base Administrator                           
 Data Communications                                
