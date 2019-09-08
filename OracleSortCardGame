@@ -16,19 +16,26 @@ Project leader - Mr. Walmer
 
 **The Oracle Sort Card provides a hands on opportunity to learn about Sorting Algorithms**
 
-Computers use algorithms to quickly solve problems
+Computers use algorithms to quickly solve problems.
+
+**An algorithim is a step-by-step procedure to solve a problem.**  
+Computers follow a pre-determined set of instructions to place objects in the desired order.
+
+
 
 # **Different Sorting Methods**
 
 **Bogo Sort** -      
 
-**Bubble Sort** -    
+**Bubble Sort** - a method of working with one item at a time and checking to see where it fits by checking it compared to every other item in the list.   
 
 **Insertion Sort** - a method of inserting one item at a time.  This is an easy way to sort.  It is one of the fastest ways to sort small lists.
 
-**Merge Sort** -                                                    
+**Merge Sort** - a method based on divided the larger group into smaller groups and sorting each smaller group before merging them into a larger group.                                                     
+This method is slower for smaller groups and more ideal for larger groups.  
 
-**Quick Sort** -                                                         
+**Quick Sort** - a method of starting with one pivot point item and placing items with certain values on either side of the pivot.  
+This method is more ideal for larger groups that need sorted.                                                   
 
 **Selection Sort** - a method based on selection.  This is an easy way to sort, but slow for large lists.                                                           
 
