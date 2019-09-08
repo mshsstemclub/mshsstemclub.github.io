@@ -15,7 +15,11 @@ STEM careers offer intrinsic value, social value, finanical value, and prestige.
 - STEM careers offer EXTRINSIC value - STEM professionals are in deman, and are some of the highest paid careers.                  
 - STEM careers offer PRESTIGE value - STEM professionals are in occupations that consistently rank among the most prestigious.          
 
-https://www.youtube.com/watch?v=3bnMBhO0LnU
+## **STEM Careers Video**
+This is a short video about the benefits of STEM Careers.
+
+{% include youtube-video.html url="https://www.youtube.com/watch?v=3bnMBhO0LnU" %}
+
 
 ## **Links to sites where you can look into STEM careers.**
 # **OCCUPATIONAL HANDBOOK**
