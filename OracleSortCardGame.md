@@ -45,4 +45,4 @@ Using a card game created by Dr. Lynford Goddard the STEM club members tried the
 STEM Club members used different methods to sort.                         
 Comparing and contrasting the different sorting methods STEM club members used could show which sorting method would be best for different applications in the real world.
 
-## **[A short video of how algorithims are used in real world STEM careers.](https://www.youtube.com/watch?v=DsXtYx7RfqE)**
+## **[A short video of how algorithms are used in real world STEM careers.](https://www.youtube.com/watch?v=DsXtYx7RfqE)**
