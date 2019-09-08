@@ -64,7 +64,8 @@ Geographic Information Systems Technician
 Information Officer                                  
 Investment Bankers                                        
 Math Teacher                                        
-Mathematician                                   
+Mathematician          
+**[Mechanical Engineer](https://careerinstem.com/product/mechanical-engineer/)**
 Medical Administrator                                    
 Microsystems Engineer                                       
 Multimedia Artist/Animator                               
