@@ -18,7 +18,7 @@ STEM careers offer intrinsic value, social value, finanical value, and prestige.
 ## **STEM Careers Video**
 This is a short video about the benefits of STEM Careers.
 
-{% include youtube-video.html url="https://www.youtube.com/watch?v=3bnMBhO0LnU" %}
+{% include youtube-video.html url="https://www.youtube.com/embed/3bnMBhO0LnU" %}
                                                                                      
                                                                                         
                                                                                        
