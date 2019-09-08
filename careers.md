@@ -50,7 +50,8 @@ Audiologist
 Biomedical Engineers - https://careerinstem.com/product/bioengineer/
 Climate Change Analyst                          
 Computer Programmer                           
-Computer Software Engineer                            
+Computer Software Engineer 
+Cyber Security Analyst - https://careerinstem.com/product/cyber-security-analyst/
 Cytotechnologist                              
 Data Base Administrator                           
 Data Communications                                
