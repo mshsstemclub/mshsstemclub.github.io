@@ -76,7 +76,8 @@ Orthodontists
 Pediatricians                                              
 Physical Therapist                                  
 Psychiatrists                                       
-Remote Sensing Technologist                               
+Remote Sensing Technologist            
+**[Robotics Technician](https://careerinstem.com/product/robotics-technician/)**
 Software Engineer                                   
 Statistician                                   
 Surgeons                                               
