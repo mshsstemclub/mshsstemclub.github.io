@@ -1,7 +1,7 @@
 ---
 title: STEM Careers
 description:
-layout: default
+layout: navbar
 ---
 
 
