@@ -15,9 +15,9 @@ Oracle Sort Card Game
 Project leader - Mr. Walmer
 
 
-# **Week 2 Project**
+# **[Week 2 Project](https://www.mshsstemclub.com/OracleSortCardGame.html)**
 Oracle Sort Card Game Continues
-Project leader - 
+Project leader - Mr. Walmer
 
 
 # **Week 3 Project**
