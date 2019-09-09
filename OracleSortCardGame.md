@@ -26,7 +26,7 @@ Computers follow a pre-determined set of instructions to place objects in the de
 
 # **Different Sorting Methods**
 
-**Bogo Sort** -      
+**Bogo Sort** - a method of shuffling until correct.                                                            
 
 **[Bubble Sort](https://www.youtube.com/watch?v=IXLLwm_WN68)** - a method of working with one item at a time and checking to see where it fits by checking it compared to every other item in the list.   
 
