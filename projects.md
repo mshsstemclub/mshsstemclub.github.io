@@ -11,26 +11,26 @@ layout: navbar
 
 
 # **[Week 1 Project](https://www.mshsstemclub.com/OracleSortCardGame.html)**
-Oracle Sort Card Game
+Oracle Sort Card Game                                                            
 Project leader - Mr. Walmer
 
 
 # **[Week 2 Project](https://www.mshsstemclub.com/OracleSortCardGame.html)**
-Oracle Sort Card Game Continues
+Oracle Sort Card Game Continues                                                   
 Project leader - Mr. Walmer
 
 
 # **Week 3 Project**
-Refraction Activity
+Refraction Activity                                                                
 Project leaders - Mr. Koker
 
 
 # **Week 4 Project**
-Paper holder for lens
+Paper holder for lens                                                                
 Project leaders - TBD
 
 
 # **Week 5 Project**
-LED/resister/battery in a bag activity
+LED/resister/battery in a bag activity                                                 
 Project leaders - TBD
 
