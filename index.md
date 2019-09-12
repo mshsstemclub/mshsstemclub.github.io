@@ -37,9 +37,9 @@ This is information about the creation of the STEM Club.
 ## **Next meeting dates:**
 
 
-Monday, September 16 at 7:15 a.m.
-Monday, September 23 at 7:15 a.m.
-Monday, September 30 at 7:15 a.m.
+Monday, September 16 at 7:15 a.m.                                                    
+Monday, September 23 at 7:15 a.m.                                                      
+Monday, September 30 at 7:15 a.m.                                                    
                                                    
 Monday, October 7 at 7:15 a.m.                                    
 Monday, October 21 at 7:15 a.m.                             
