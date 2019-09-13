@@ -42,7 +42,7 @@ https://careerinstem.com/day-in-the-life-videos-of-stem-careers/
 
 
 # **A PARTIAL LIST OF STEM CAREERS**
-Actuary
+Actuary                                                                         
 **[Agricultural Engineer](https://careerinstem.com/product/agricultural-engineer/)**                            
 **[Areospace Engineer](https://careerinstem.com/product/aerospace-engineer/)**         
 Air Traffic Controller                                
