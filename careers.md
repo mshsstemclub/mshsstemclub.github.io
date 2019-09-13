@@ -42,7 +42,8 @@ https://careerinstem.com/day-in-the-life-videos-of-stem-careers/
 
 
 # **A PARTIAL LIST OF STEM CAREERS**
-Actuary                               
+Actuary
+**[Agricultural Engineer](https://careerinstem.com/product/agricultural-engineer/)**                            
 **[Areospace Engineer](https://careerinstem.com/product/aerospace-engineer/)**         
 Air Traffic Controller                                
 **[Astronomer](https://careerinstem.com/product/astronomer/)**                                                  
@@ -51,6 +52,7 @@ Audiologist
 **[Civil Engineer](https://careerinstem.com/product/civil-engineer/)**                                         
 Climate Change Analyst                          
 Computer Programmer                           
+**[Computer Harware Engineer](https://careerinstem.com/product/computer-engineer/)**                         
 Computer Software Engineer                          
 **[Cyber Security Analyst](https://careerinstem.com/product/cyber-security-analyst/)**             
 Cytotechnologist                              
@@ -60,25 +62,30 @@ Dentists
 Economist                                   
 **[Electrical Engineer](https://careerinstem.com/product/electrical-engineer/)**                                     
 Electrician                                     
-Engineer                                        
+Engineer                                    
+**[Entomologist](https://careerinstem.com/product/entomologist/)**                                  
+**[Exercise Physiologist](https://careerinstem.com/product/exercise-physiologist/)**                                  
 **[Forensic Biochemist](https://careerinstem.com/product/forensic-biochemist/)**                   
 **[Geneticist](https://careerinstem.com/product/geneticist/)**                              
 Geographic Information Systems Technician                       
+**[Hydrologist](https://careerinstem.com/product/hydrologist/)**                                 
 Information Officer                                  
 Investment Bankers                                        
 Math Teacher                                        
 Mathematician          
 **[Mechanical Engineer](https://careerinstem.com/product/mechanical-engineer/)**                       
-Medical Administrator                                    
+Medical Administrator       
+**[Meteorologt](https://careerinstem.com/product/meteorologist/)**                            
 Microsystems Engineer                                       
 Multimedia Artist/Animator                               
 Nanosystems Engineer                                    
-Nurse                                            
+**[Nurse](https://careerinstem.com/product/nurse/)**                                                                                    
 Oral Surgeons                                         
 Orthodontists                                                
 Pediatricians                                              
 Physical Therapist                                  
-Psychiatrists                                       
+Psychiatrists                                                               
+**[Physicist](https://careerinstem.com/product/physicist/)**                                     
 Remote Sensing Technologist            
 **[Robotics Technician](https://careerinstem.com/product/robotics-technician/)**                   
 Software Engineer                                   
@@ -87,4 +94,5 @@ Surgeons
 System Analysts         
 **[Veterinarian](https://careerinstem.com/product/veterinarian/)**                           
 Weatherization Installer                                
-Wind Energy Engineer                                   
+Wind Energy Engineer                                                           
+**[Zoologist](https://careerinstem.com/product/zoologist/)**                                       
