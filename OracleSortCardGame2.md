@@ -1,5 +1,5 @@
 ---
-title: Project 1
+title: Project 2
 description: Oracle Sort Card Game 
 layout: navbar
 ---
@@ -7,14 +7,15 @@ layout: navbar
 **The Mahomet-Seymour High School STEM Club provides opportunities for students to participate and lead STEM projects each meeting.** 
 
 
-## **STEM Club Week 1 Project**
+## **STEM Club Week 2 Project**
 
-![](images/STEMclubProjectWeek1G.jpg)
+![](images/STEMclubProjectWeek2A.jpg)
 
 # **Oracle Sort Card game**
+
 Project leader - Mr. Walmer
 
-![](images/STEMclubProjectWeek1B.jpg)
+![](images/STEMclubProjectWeek2B.jpg)
 
 **The Oracle Sort Card provides a hands on opportunity to learn about Sorting Algorithms**
 
@@ -22,7 +23,6 @@ Computers use algorithms to quickly solve problems.
 
 **An algorithm is a step-by-step procedure to solve a problem.**  
 Computers follow a pre-determined set of instructions to place objects in the desired order.
-
 
 
 
@@ -49,19 +49,4 @@ Comparing and contrasting the different sorting methods STEM club members used c
 
 ## **[A short video of how algorithms are used in real world STEM careers.](https://www.youtube.com/watch?v=DsXtYx7RfqE)**
 
-![](images/STEMclubProjectWeek1A.jpg)
-
-
-![](images/STEMclubProjectWeek1C.jpg)
-
-
-![](images/STEMclubProjectWeek1D.jpg)
-
-
-![](images/STEMclubProjectWeek1E.jpg)
-
-
-![](images/STEMclubProjectWeek1F.jpg)
-
-
-![](images/STEMclubProjectWeek1H.jpg)
+![](images/STEMclubProjectWeek2C.jpg)

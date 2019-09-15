@@ -10,12 +10,12 @@ layout: navbar
 ## **STEM Projects**
 
 
-# **[Week 1 Project](https://www.mshsstemclub.com/OracleSortCardGame.html)**
+# **[Week 1 Project](OracleSortCardGame.html)**
 Oracle Sort Card Game                                                            
 Project leader - Mr. Walmer
 
 
-# **[Week 2 Project](https://www.mshsstemclub.com/OracleSortCardGame.html)**
+# **[Week 2 Project](OracleSortCardGame2.html)**
 Oracle Sort Card Game Continues                                                   
 Project leader - Mr. Walmer
 
