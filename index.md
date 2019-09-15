@@ -13,6 +13,7 @@ No competition, just fun!
 
 **Meet in Mr. Koker’s room (B20) on Mondays at 7:15 am to learn more!**
 
+![](images/STEMclubProjectWeek2A.jpg)
 
 
 ## **STEM CLUB Grant Video**
