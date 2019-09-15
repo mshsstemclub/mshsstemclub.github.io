@@ -7,6 +7,7 @@ layout: navbar
 **The Mahomet-Seymour High School STEM Club has three sponsors.  
 Their contact information is below.**
 
+![](images/STEMclubSponsors.jpeg)
 
 [Terry Koker](mailto:tkoker@ms.k12.il.us)- Chemistry Teacher                                    
 tkoker@ms.k12.il.us
