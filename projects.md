@@ -20,17 +20,18 @@ Oracle Sort Card Game Continues
 Project leader - Mr. Walmer
 
 
-# **Week 3 Project**
+# **[Week 3 Project](LEDGrabBag.html)**
+LED/resister/battery in a bag activity  
+
+
+# **Week 4 Project**
 Refraction Activity                                                                
 Project leaders - Mr. Koker
 
 
-# **Week 4 Project**
+# **Week 5 Project**
 Paper holder for lens                                                                
 Project leaders - TBD
 
 
-# **Week 5 Project**
-LED/resister/battery in a bag activity                                                 
-Project leaders - TBD
 
