@@ -8,8 +8,7 @@ layout: navbar
 **STEM stands for Science, Technology, Engineering and Mathematics.**  
 Our STEM Club is an informal, noncompetitive group of students and sponsors dedicated to exploring STEM.
 
-We plan to make sciency things and talk about STEM and learn about STEM careers.  
-No competition, just fun!  
+We do STEM science activities and learn about STEM careers. 
 
 **Meet in Mr. Koker’s room (B20) on Mondays at 7:15 am to learn more!**
 
@@ -37,8 +36,7 @@ This is information about the creation of the STEM Club.
   
 ## **Next meeting dates:**
 
-
-Monday, September 16 at 7:15 a.m.                                                    
+                                                 
 Monday, September 23 at 7:15 a.m.                                                      
 Monday, September 30 at 7:15 a.m.                                                    
                                                    
