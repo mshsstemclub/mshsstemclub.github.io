@@ -6,9 +6,7 @@ layout: navbar
 
 
 **STEM(Science, Technology, Engineering and Mathematics) Club**  
-Our STEM Club is an informal, noncompetitive group of students and sponsors dedicated to exploring STEM.
-
-We do STEM science activities and learn about STEM careers. 
+Our STEM Club is an informal, noncompetitive group of students and sponsors dedicated to exploring STEM. We do STEM hands on activities and learn about STEM careers. 
 
 **Meet in Mr. Koker’s room (B20) on Mondays at 7:15 am to learn more!**
 
