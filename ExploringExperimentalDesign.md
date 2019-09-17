@@ -31,33 +31,6 @@ The smaller groups merged into mid-sized groups in order to discuss how each of 
 The mid-sized groups met into one large group to finally discuss the benefits of a good experimental design.
 
 
-# **Learning about the STEM Club grant from Dr. Lynford Goddard**
-
-Dr. Lynford Goddard spent years of time and hard work to write a grant to get the funding needed to create STEM clubs and STEM camps for Illinois high school students.  He wrote a book with detailed STEM club experiments that we will be using for our projects.  He also provided our school STEM club kits with various activities for our club members to use.  He created a two week long training course for our sponsors to better equip them. Without his years of hard work our STEM club wouldn't have been created.
-
-![](images/StemClubProjectWeek3A.jpg)
-
-
-![](images/StemClubProjectWeek3B.jpg)
-
-
-![](images/StemClubProjectWeek3C.jpg)
-
-
-![](images/StemClubProjectWeek3D.jpg)
-
-
-![](images/StemClubProjectWeek3E.jpg)
-
-
-![](images/StemClubProjectWeek3F.jpg)
-
-
-![](images/StemClubProjectWeek3G.jpg)
-
-
-![](images/StemClubProjectWeek3H.jpg)
-
 
 
 
