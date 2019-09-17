@@ -20,8 +20,8 @@ Oracle Sort Card Game Continues
 Project leader - Mr. Walmer
 
 
-# **[Week 3 Project](LEDGrabBag.html)**
-LED/resister/battery in a bag activity  
+# **[Week 3 Project](ExploringExperimentalDesign.html)**
+Exploring Experimental Design Activity  
 
 
 # **Week 4 Project**

@@ -11,12 +11,12 @@ layout: navbar
 
 ![](images/StemClubProjectWeek3A.jpg)
 
-# **LED/resister/battery Experiment Grab Bag**
+# **Exploring Experimental Design Activity**
 Project leader - Mr. Walmer
 
 ![](images/StemClubProjectWeek3B.jpg)
 
-**The --- provides a hands on opportunity to learn about --**
+**The Exploring Experimental Design activity provides a hands on opportunity to learn about the different aspects of how a good experiment is designed.**
 
 
 
