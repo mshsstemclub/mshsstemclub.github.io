@@ -25,7 +25,7 @@ Exploring Experimental Design Activity
 Project leader - Mr. Walmer                    
 
 # **[Week 3 Additional Meeting](MeetingDrLynfordGoddard.html)**                       
-Meeting Dr. Lynford Goddard (creator of the STEM club grant)
+Meeting Dr. Lynford Goddard (creator of the STEM club grant)                          
 Presenter - Dr. Lynford Goddard                     
                                                            
                                                          
