@@ -9,12 +9,12 @@ layout: navbar
 
 ## **STEM Club Week 3 Project**
 
-![](images/StemClubProjectWeek3A.jpg)
+![](images/StemClubProjectWeek3J.jpg)
 
 # **Exploring Experimental Design Activity**
 Project leader - Mr. Walmer
 
-![](images/StemClubProjectWeek3B.jpg)
+![](images/StemClubProjectWeek3I.jpg)
 
 **The Exploring Experimental Design activity provides a hands on opportunity to learn about the different aspects of how a good experiment is designed.**
 
@@ -29,6 +29,16 @@ The different groups got different results based off the supplies they were give
 The smaller groups merged into mid-sized groups in order to discuss how each of their experiments worked and to discuss the differences in both the set ups and results of their experiments.  In doing so they could discover the different design elements that led to specific results.
 
 The mid-sized groups met into one large group to finally discuss the benefits of a good experimental design.
+
+
+# **Learning about the STEM Club grant from Dr. Lynford Goddard**
+
+Dr. Lynford Goddard scents years of hard work to write a grant to get the funding needed to create STEM clubs and STEM camps for Illinois high school students.  He wrote a book with detailed STEM club experiments that we will be using for our projects.  He also provided our school STEM club kits with various activities for our club members to use. Without his years of hard work our STEM club wouldn't have been created.
+
+![](images/StemClubProjectWeek3A.jpg)
+
+
+![](images/StemClubProjectWeek3B.jpg)
 
 
 ![](images/StemClubProjectWeek3C.jpg)
@@ -49,10 +59,6 @@ The mid-sized groups met into one large group to finally discuss the benefits of
 ![](images/StemClubProjectWeek3H.jpg)
 
 
-![](images/StemClubProjectWeek3I.jpg)
-
-
-![](images/StemClubProjectWeek3J.jpg)
 
 
 
