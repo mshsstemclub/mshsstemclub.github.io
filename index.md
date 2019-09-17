@@ -5,7 +5,7 @@ layout: navbar
 ---
 
 
-**STEM(Science, Technology, Engineering and Mathematics) Club**  
+**STEM (Science, Technology, Engineering and Mathematics) Club**  
 Our STEM Club is an informal, noncompetitive group of students and sponsors dedicated to exploring STEM. We do STEM hands on activities and learn about STEM careers. 
 
 **Meet in Mr. Koker’s room (B20) on Mondays at 7:15 am to learn more!**
@@ -13,7 +13,7 @@ Our STEM Club is an informal, noncompetitive group of students and sponsors dedi
 ![](images/STEMclubProjectWeek2A.jpg)
 
 
-## **STEM CLUB Grant Video**
+## **STEM Club Grant Video**
 This is a short video about the STEM club grant that our high school received from the National Science Foundation.
 
 
@@ -32,7 +32,7 @@ This is information about the creation of the STEM Club.
   
   
   
-## **Next meeting dates:**
+## **Next Meeting Dates:**
 
                                                  
 Monday, September 23 at 7:15 a.m.                                                      
