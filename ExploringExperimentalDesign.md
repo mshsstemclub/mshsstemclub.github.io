@@ -1,6 +1,6 @@
 ---
 title: Project 3
-description: LED/resister/battery Experiment Grab Bag 
+description: Exploring Experimental Design Activity 
 layout: navbar
 ---
 

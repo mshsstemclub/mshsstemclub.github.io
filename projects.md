@@ -23,6 +23,8 @@ Project leader - Mr. Walmer
 # **[Week 3 Project](ExploringExperimentalDesign.html)**
 Exploring Experimental Design Activity  
 
+# **[Week 3 Additional Meeting](MeetingDrLynfordGoddard.html)**
+
 
 # **Week 4 Project**
 Refraction Activity                                                                
