@@ -75,13 +75,15 @@ Math Teacher
 Mathematician          
 **[Mechanical Engineer](https://careerinstem.com/product/mechanical-engineer/)**                       
 Medical Administrator       
-**[Meteorologt](https://careerinstem.com/product/meteorologist/)**                            
+**[Meteorologist](https://careerinstem.com/product/meteorologist/)**                            
 Microsystems Engineer                                       
 Multimedia Artist/Animator                               
 Nanosystems Engineer                                    
+**[Nematologist](https://careerinstem.com/product/nematologist/)**                    
 **[Nurse](https://careerinstem.com/product/nurse/)**                                                                                    
 Oral Surgeons                                         
 Orthodontists                                                
+**[Paleoanthropologist](https://careerinstem.com/product/paleoanthropologist/)**         
 Pediatricians                                              
 Physical Therapist                                  
 Psychiatrists                                                               
@@ -93,6 +95,7 @@ Statistician
 Surgeons                                               
 System Analysts         
 **[Veterinarian](https://careerinstem.com/product/veterinarian/)**                           
+**[Video Game Designer](https://careerinstem.com/product/video-game-designer/)**                      
 Weatherization Installer                                
 Wind Energy Engineer                                                           
 **[Zoologist](https://careerinstem.com/product/zoologist/)**                                       
