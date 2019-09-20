@@ -61,19 +61,25 @@ Climate Change Analyst
 Computer Programmer                           
 **[Computer Harware Engineer](https://careerinstem.com/product/computer-engineer/)**                         
 Computer Software Engineer                          
+**[Construction Manager](https://careerinstem.com/product/construction-manager/)**                
 **[Crystallographer](https://careerinstem.com/product/crystallographer/)**                            
 **[Cyber Security Analyst](https://careerinstem.com/product/cyber-security-analyst/)**             
 Cytotechnologist                              
 Data Base Administrator                           
 Data Communications                                
+**[Demographer](https://careerinstem.com/product/demographer/)**                         
 Dentists                                             
+**[Dietician](https://careerinstem.com/product/dietician/)**                
+**[Drone Pilot](https://careerinstem.com/product/drone-pilot/)**                 
 Economist                                   
 **[Electrical Engineer](https://careerinstem.com/product/electrical-engineer/)**                                     
 Electrician                                     
 Engineer                                    
 **[Entomologist](https://careerinstem.com/product/entomologist/)**                                  
 **[Exercise Physiologist](https://careerinstem.com/product/exercise-physiologist/)**                                  
+**[Fiber Optic Technician](https://careerinstem.com/product/fiber-optic-technician/)**               
 **[Forensic Biochemist](https://careerinstem.com/product/forensic-biochemist/)**                   
+**[Forester](https://careerinstem.com/product/forester/)**                                    
 **[Geneticist](https://careerinstem.com/product/geneticist/)**                              
 Geographic Information Systems Technician                       
 **[Hydrologist](https://careerinstem.com/product/hydrologist/)**                                 
@@ -106,4 +112,6 @@ System Analysts
 **[Video Game Designer](https://careerinstem.com/product/video-game-designer/)**                      
 Weatherization Installer                                
 Wind Energy Engineer                                                           
-**[Zoologist](https://careerinstem.com/product/zoologist/)**                                       
+**{[X-Ray Technician](https://careerinstem.com/product/x-ray-technician/)**                
+**[Zoologist](https://careerinstem.com/product/zoologist/)**                            
+**[Zoonotic Epidemiologist](https://careerinstem.com/product/zoonotic-epidemiologist/)**                 
