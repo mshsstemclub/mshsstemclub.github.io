@@ -112,6 +112,6 @@ System Analysts
 **[Video Game Designer](https://careerinstem.com/product/video-game-designer/)**                      
 Weatherization Installer                                
 Wind Energy Engineer                                                           
-**{[X-Ray Technician](https://careerinstem.com/product/x-ray-technician/)**                
+**[X-Ray Technician](https://careerinstem.com/product/x-ray-technician/)**                
 **[Zoologist](https://careerinstem.com/product/zoologist/)**                            
 **[Zoonotic Epidemiologist](https://careerinstem.com/product/zoonotic-epidemiologist/)**                 
