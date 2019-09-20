@@ -43,17 +43,25 @@ https://careerinstem.com/day-in-the-life-videos-of-stem-careers/
 
 # **A PARTIAL LIST OF STEM CAREERS**
 Actuary                                                                         
-**[Agricultural Engineer](https://careerinstem.com/product/agricultural-engineer/)**                            
-**[Areospace Engineer](https://careerinstem.com/product/aerospace-engineer/)**         
+**[Aerospace Engineer](https://careerinstem.com/product/aerospace-engineer/)**         
+**[Agricultural Engineer](https://careerinstem.com/product/agricultural-engineer/)**                              
 Air Traffic Controller                                
+**[Animal Scientist](https://careerinstem.com/product/animal-scientist/)**                   
+**[Astronaut](https://careerinstem.com/product/astronaut/)**                     
 **[Astronomer](https://careerinstem.com/product/astronomer/)**                                                  
 Audiologist  
+**[Bioacoustic Researcher](https://careerinstem.com/product/bioacoustic-researcher/)**                 
+**[Biofuels Processing Technician](https://careerinstem.com/product/biofuels-processing-technician/)**           
+**[Biologist](https://careerinstem.com/product/biologist/)**                       
 **[Biomedical Engineers](https://careerinstem.com/product/bioengineer/)**               
+**[Chemical Engineer](https://careerinstem.com/product/chemical-engineer/)**                           
 **[Civil Engineer](https://careerinstem.com/product/civil-engineer/)**                                         
 Climate Change Analyst                          
+**[Computational Research Scientist](https://careerinstem.com/product/computational-research-scientist/)**            
 Computer Programmer                           
 **[Computer Harware Engineer](https://careerinstem.com/product/computer-engineer/)**                         
 Computer Software Engineer                          
+**[Crystallographer](https://careerinstem.com/product/crystallographer/)**                            
 **[Cyber Security Analyst](https://careerinstem.com/product/cyber-security-analyst/)**             
 Cytotechnologist                              
 Data Base Administrator                           
