@@ -35,11 +35,16 @@ Project leaders - Mr. Koker
 
 
 # **Week 5 Project**
+TBA Activity                                                                
+Project leaders - Hannah K.
+
+
+# **Week 6 Project**
 Refraction Activity                                                                
 Project leaders - Mr. Koker
 
 
-# **Week 6 Project**
+# **Week 7 Project**
 Paper holder for lens                                                                
 Project leaders - TBD
 
