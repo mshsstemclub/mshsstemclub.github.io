@@ -16,7 +16,7 @@ Project leader - Mr. Koker
 
 ![]()
 
-**The Circuits and Using Digital Multimetes Activity provides a hands on opportunity to learn about using digital multimeters.**
+**The Circuits and Using Digital Multimeters Activity provides a hands on opportunity to learn about using digital multimeters.**
 
 
 Each STEMclub member will get a red circuit board and learn about which circles are connected.
