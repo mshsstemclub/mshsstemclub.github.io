@@ -30,11 +30,16 @@ Presenter - Dr. Lynford Goddard
                                                            
                                                          
 # **Week 4 Project**
-Refraction Activity                                                                
+Circuits and Using Digital Multimeters Activity                                                                
 Project leaders - Mr. Koker
 
 
 # **Week 5 Project**
+Refraction Activity                                                                
+Project leaders - Mr. Koker
+
+
+# **Week 6 Project**
 Paper holder for lens                                                                
 Project leaders - TBD
 
