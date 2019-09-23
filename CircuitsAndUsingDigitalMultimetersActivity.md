@@ -24,3 +24,12 @@ Each STEMclub member will get a red circuit board and learn about which circles 
 Members learned how resistance works in series, additive, and in parallel, 1/Rtotal = 1/R1 + 1/R2.
 
 Each STEMclub member will then use 2 AA battery packs and batteries, and an LED to make a simple circuit to light the LED.
+
+
+![]()
+
+![]()
+
+![]()
+
+![]()
