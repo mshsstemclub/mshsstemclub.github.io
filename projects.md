@@ -29,7 +29,7 @@ Meeting Dr. Lynford Goddard (creator of the STEM club grant)
 Presenter - Dr. Lynford Goddard                     
                                                            
                                                          
-# **Week 4 Project**
+# **[Week 4 Project](CircuitsAndUsingDigitalMultimetersActivity.html)**
 Circuits and Using Digital Multimeters Activity                                                                
 Project leaders - Mr. Koker
 
