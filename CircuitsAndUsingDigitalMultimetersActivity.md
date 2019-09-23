@@ -12,7 +12,7 @@ layout: navbar
 ![]()
 
 # **Circuits and Using Digital Multimeters Activity**
-Project leader - Mr. Walmer
+Project leader - Mr. Koker
 
 ![]()
 
