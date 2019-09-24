@@ -8,6 +8,16 @@ layout: navbar
 
 ![](images/STEMclubKit1.jpg)
 
+![](images/STEMclubKit2.jpg)
+
+![](images/STEMclubKit3.jpg)
+
+![](images/STEMclubKit4.jpg)
+
+![](images/STEMclubKit5.jpg)
+
+![](images/STEMclubKit6.jpg)
+
 
 
 
