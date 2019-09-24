@@ -9,12 +9,12 @@ layout: navbar
 
 ## **STEM Club Week 4 Project**
 
-![](images/StemclubProjectWeek4H.jpg)
+![](images/STEMclubProjectWeek4H.jpg)
 
 # **Circuits and Using Digital Multimeters Activity**
 Project leader - Mr. Koker
 
-![](images/StemclubProjectWeek4D.jpg)
+![](imagesSTEMclubProjectWeek4D.jpg)
 
 **The Circuits and Using Digital Multimeters Activity provides a hands on opportunity to learn about using digital multimeters.**
 
@@ -26,22 +26,22 @@ Members learned how resistance works in series, additive, and in parallel, 1/Rto
 Each STEMclub member will then use 2 AA battery packs and batteries, and an LED to make a simple circuit to light the LED.
 
 
-![](images/StemclubProjectWeek4F.jpg)
+![](images/STEMclubProjectWeek4F.jpg)
 
 ![](images/STEMclubProjectWeek4G.jpg)
 
-![](images/StemclubProjectWeek4I.jpg)
+![](images/STEMclubProjectWeek4I.jpg)
 
-![](images/StemclubProjectWeek4J.jpg)
+![](images/STEMclubProjectWeek4J.jpg)
 
-![](images/StemclubProjectWeek4K.jpg)
+![](images/STEMclubProjectWeek4K.jpg)
 
-![](images/StemclubProjectWeek4L.jpg)
+![](images/STEMclubProjectWeek4L.jpg)
 
-![](images/StemclubProjectWeek4A.jpg)
+![](images/STEMclubProjectWeek4A.jpg)
 
-![](images/StemclubProjectWeek4B.jpg)
+![](images/STEMclubProjectWeek4B.jpg)
 
-![](images/StemclubProjectWeek4C.jpg)
+![](images/STEMclubProjectWeek4C.jpg)
 
-![](images/StemclubProjectWeek4E.jpg)
+![](images/STEMclubProjectWeek4E.jpg)
