@@ -28,7 +28,7 @@ Each STEMclub member will then use 2 AA battery packs and batteries, and an LED 
 
 ![](images/StemclubProjectWeek4F.jpg)
 
-![](images/StemclubProjectWeek4G.jpg)
+![](images/STEMclubProjectWeek4G.jpg)
 
 ![](images/StemclubProjectWeek4I.jpg)
 
