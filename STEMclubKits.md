@@ -4,7 +4,7 @@ description: STEM Club Kits
 layout: navbar
 ---
 
-**The Mahomet-Seymour High School STEM Club was given kits for 40 students to provide activities for our club memebers.**
+**The Mahomet-Seymour High School STEM Club was given kits for 40 students to provide STEM activities for our club members.**
 
 ![](images/STEMclubKit1.jpg)
 
