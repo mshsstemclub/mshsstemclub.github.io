@@ -10,6 +10,6 @@ STEM Club members use their talents to help the club within different leadership
 # **STEM Club Website Development Team**                     
 Website Development Team Leader - Grant Garrison                      
 
-# **STEM Club Marketing and Design Team**                       
-Marketing and Design Team Leader - Ethan Grinberg          
+# **STEM Club Advertising and Design Team**                       
+Advertising and Design Team Leader - Ethan Grinberg          
 
