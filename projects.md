@@ -29,14 +29,24 @@ Meeting Dr. Lynford Goddard (creator of the STEM club grant)
 Presenter - Dr. Lynford Goddard                     
                                                            
                                                          
-# **Week 4 Project**
-Refraction Activity                                                                
-Project leaders - Mr. Koker
+# **[Week 4 Project](CircuitsAndUsingDigitalMultimetersActivity.html)**
+Circuits and Using Digital Multimeters Activity                                                                
+Project leader - Mr. Koker
 
 
 # **Week 5 Project**
+TBA Activity                                                                
+Project leader - Hannah K.
+
+
+# **Week 6 Project**
+Refraction Activity                                                                
+Project leader - Mr. Koker
+
+
+# **Week 7 Project**
 Paper holder for lens                                                                
-Project leaders - TBD
+Project leader - TBD
 
 
 
