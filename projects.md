@@ -36,7 +36,11 @@ Project leader - Mr. Koker
 
 # **Week 5 Project**
 TBA Activity                                                                
-Project leader - Hannah K.
+Project leader - Hannah Kittivanichkulkrai
+
+# **[Week 5 Additional Meeting](MeetingDrLaraHebert.html)**                       
+Meeting Dr. Lara Hebert                         
+Presenter - Dr. Lara Hebert      
 
 
 # **Week 6 Project**
