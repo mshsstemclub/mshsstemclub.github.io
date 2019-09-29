@@ -9,6 +9,9 @@ layout: navbar
 ![](images/StemLogo.png)
 Created by Ethan Grinberg
 
+![](images/StemPoster2.png)
+Created by Ethan Grinberg
+
 ![](images/StemPoster.png)
 Created by Ethan Grinberg
 
