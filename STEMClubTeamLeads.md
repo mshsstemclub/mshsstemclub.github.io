@@ -1,6 +1,6 @@
 ---
-title: STEM Club Leadership Teams
-description: STEM Club Leadership Teams
+title: STEM Club Team Leads
+description: STEM Club Team Leads
 layout: navbar
 ---
 
