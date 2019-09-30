@@ -12,7 +12,7 @@ layout: navbar
 ![](images/STEMclubProjectWeek1G.jpg)
 
 # **Oracle Sort Card game**
-Project leader - Mr. Walmer
+Project lead - Mr. Walmer
 
 ![](images/STEMclubProjectWeek1B.jpg)
 
