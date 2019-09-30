@@ -12,7 +12,7 @@ layout: navbar
 ![](images/StemClubProjectWeek3J.jpg)
 
 # **Exploring Experimental Design Activity**
-Project leader - Mr. Walmer
+Project lead - Mr. Walmer
 
 ![](images/StemClubProjectWeek3I.jpg)
 
