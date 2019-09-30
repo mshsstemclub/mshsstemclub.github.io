@@ -5,7 +5,7 @@ layout: navbar
 ---
 
 
-We show videos about STEM careers at each weekly meeting.
+We show videos about STEM careers at each weekly meeting.                                                 
 This is a link to the videos we watched in case you missed them.
 
 
