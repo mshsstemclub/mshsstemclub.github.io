@@ -9,17 +9,17 @@ layout: navbar
 
 ### **[Week 1 Project](OracleSortCardGame.html)**
 Oracle Sort Card Game                                                            
-Project leader - Mr. Walmer
+Project lead - Mr. Walmer
 
 
 ### **[Week 2 Project](OracleSortCardGame2.html)**
 Oracle Sort Card Game Continues                                                   
-Project leader - Mr. Walmer
+Project lead - Mr. Walmer
 
 
 ### **[Week 3 Project](ExploringExperimentalDesign.html)**
 Exploring Experimental Design Activity        
-Project leader - Mr. Walmer                    
+Project lead - Mr. Walmer                    
 
 ### **[Week 3 Additional Meeting](MeetingDrLynfordGoddard.html)**                       
 Meeting Dr. Lynford Goddard (creator of the STEM club grant)                          
@@ -28,12 +28,12 @@ Presenter - Dr. Lynford Goddard
                                                          
 ### **[Week 4 Project](CircuitsAndUsingDigitalMultimetersActivity.html)**
 Circuits and Using Digital Multimeters Activity                                                                
-Project leader - Mr. Koker
+Project lead - Mr. Koker
 
 
-### **Week 5 Project**
+### **[Week 5 Project](Project5.html)**
 TBA Activity                                                                
-Project leader - Hannah Kittivanichkulkrai
+Project lead - Hannah Kittivanichkulkrai
 
 ### **[Week 5 Additional Meeting](MeetingDrLaraHebert.html)**                       
 Meeting Dr. Lara Hebert                         
@@ -42,12 +42,12 @@ Presenter - Dr. Lara Hebert
 
 ### **Week 6 Project**
 Refraction Activity                                                                
-Project leader - Mr. Koker
+Project lead - Mr. Koker
 
 
 ### **Week 7 Project**
 Paper holder for lens                                                                
-Project leader - TBD
+Project lead - TBD
 
 
 
