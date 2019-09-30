@@ -108,9 +108,12 @@ Software Engineer
 Statistician                                   
 Surgeons                                               
 System Analysts         
+**[Ultrasound Technologist](https://careerinstem.com/product/ultrasound-technologist/)**             
+**[Urban Planner](https://careerinstem.com/product/urban-planner/)**                  
 **[Veterinarian](https://careerinstem.com/product/veterinarian/)**                           
 **[Video Game Designer](https://careerinstem.com/product/video-game-designer/)**                      
 Weatherization Installer                                
+**[Wildlife Conservationist](https://careerinstem.com/product/wildlife-conservationist/)**              
 Wind Energy Engineer                                                           
 **[X-Ray Technician](https://careerinstem.com/product/x-ray-technician/)**                
 **[Zoologist](https://careerinstem.com/product/zoologist/)**                            
