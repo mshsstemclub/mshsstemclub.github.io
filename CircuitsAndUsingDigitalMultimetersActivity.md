@@ -12,7 +12,7 @@ layout: navbar
 ![](images/STEMclubProjectWeek4H.jpg)
 
 # **Circuits and Using Digital Multimeters Activity**
-Project leader - Mr. Koker
+Project lead - Mr. Koker
 
 ![](images/STEMclubProjectWeek4D.jpg)
 
