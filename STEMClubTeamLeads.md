@@ -1,6 +1,6 @@
 ---
 title: STEM Club Team Leads
-description: STEM Club Team Leads
+description: Team Leads
 layout: navbar
 ---
 
