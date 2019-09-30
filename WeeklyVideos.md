@@ -5,9 +5,9 @@ layout: navbar
 ---
 
 
-## **STEM club videos we have shown.** 
+**STEM club videos we have shown at our weekly meetings.** 
 
-We show videos at each STEM club weekly meeting about STEM careers and STEM related videos.
+We show videos about STEM careers at each STEM Club weekly meeting.
 This is a link to the videos we watched in case you missed them.
 
 
