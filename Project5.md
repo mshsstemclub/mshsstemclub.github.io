@@ -12,7 +12,7 @@ layout: navbar
 ![](images/StemClubProjectWeek5A.jpg)
 
 # **Hannah Kittivanichkulkrai's Project**
-Project leader - Hannah Kittivanichkulkrai
+Project lead - Hannah Kittivanichkulkrai
 
 ![](images/StemClubProjectWeek5B.jpg)
 
