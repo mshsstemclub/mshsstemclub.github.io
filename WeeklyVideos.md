@@ -15,7 +15,7 @@ This is a short video about the STEM club grant that our high school received fr
 
 
 ### **Week 2 Videos**                      
-**[STEM careers](https://www.youtube.com/embed/3bnMBhO0Ln)**
+**[STEM careers](https://www.youtube.com/embed/3bnMBhO0Ln)**                                                        
 **[Biomedical Engineers](https://careerinstem.com/product/bioengineer/)**               
                                                                                                                                                                        
 
