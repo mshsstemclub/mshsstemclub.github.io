@@ -17,14 +17,14 @@ This is a short video about the STEM club grant that our high school received fr
 {% include youtube-video.html url="https://www.youtube.com/embed/KlIaY6aWdjo" %}
 
 
- ### **Week 2 Videos**                      
+### **Week 2 Videos**                      
  **[Biomedical Engineers](https://careerinstem.com/product/bioengineer/)**               
  
 ### **STEM Careers Video**
 This is a short video about the benefits of STEM Careers.
 {% include youtube-video.html url="https://www.youtube.com/embed/3bnMBhO0LnU" %}
                                                                                                 
- 
+                                                                       
 ### **Week 3 Videos**                                
  **[Aerospace Engineer](https://careerinstem.com/product/aerospace-engineer/)**                 
  
