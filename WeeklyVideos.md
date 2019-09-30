@@ -53,7 +53,7 @@ A video about the STEM club grant that we received from the National Science Fou
 
 
 ### **Week 10 Videos**                                
-**[Nurse](https://careerinstem.com/product/nurse/)**                                                                  
+**[Entomologist](https://careerinstem.com/product/entomologist/)**                                                             
 **[Astronomer](https://careerinstem.com/product/astronomer/)**                                                 
 
 
@@ -87,20 +87,40 @@ A video about the STEM club grant that we received from the National Science Fou
 **[Wildlife Conservationist](https://careerinstem.com/product/wildlife-conservationist/)**              
 
 
-### **Week 18 and beyond Videos**                                             
+### **Week 18 Videos**                                
 **[Astronaut](https://careerinstem.com/product/astronaut/)**                     
 **[Bioacoustic Researcher](https://careerinstem.com/product/bioacoustic-researcher/)**                 
+
+
+### **Week 19 Videos**                                
 **[Biofuels Processing Technician](https://careerinstem.com/product/biofuels-processing-technician/)**           
 **[Biologist](https://careerinstem.com/product/biologist/)**                                        
+
+
+### **Week 20 Videos**                                
 **[Construction Manager](https://careerinstem.com/product/construction-manager/)**                
 **[Crystallographer](https://careerinstem.com/product/crystallographer/)**                            
-**[Demographer](https://careerinstem.com/product/demographer/)**                         
-**[Drone Pilot](https://careerinstem.com/product/drone-pilot/)**                 
-**[Entomologist](https://careerinstem.com/product/entomologist/)**                                     
+
+
+### **Week 21 Videos**                                
 **[Fiber Optic Technician](https://careerinstem.com/product/fiber-optic-technician/)**               
 **[Forester](https://careerinstem.com/product/forester/)**                                    
-**[Hydrologist](https://careerinstem.com/product/hydrologist/)**                                                       
-**[Nematologist](https://careerinstem.com/product/nematologist/)**                                                                              
+
+
+### **Week 22 Videos**                                
+**[Demographer](https://careerinstem.com/product/demographer/)**                         
+**[Drone Pilot](https://careerinstem.com/product/drone-pilot/)**                 
+
+
+### **Week 23 Videos**                                
 **[Paleoanthropologist](https://careerinstem.com/product/paleoanthropologist/)**                                                                   
 **[Zoologist](https://careerinstem.com/product/zoologist/)**                            
+
+
+### **Week 24 Videos**                                             
+**[Hydrologist](https://careerinstem.com/product/hydrologist/)**                                                       
+**[Nematologist](https://careerinstem.com/product/nematologist/)**                                                                              
+
+
+### **Week 25 and beyond Videos**                                             
 **[Zoonotic Epidemiologist](https://careerinstem.com/product/zoonotic-epidemiologist/)**                 
