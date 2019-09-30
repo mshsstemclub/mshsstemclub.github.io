@@ -8,8 +8,8 @@ layout: navbar
 
 
 ## **STEM Projects**
-
-
+# **STEM Projects**
+### **STEM Projects**
 # **[Week 1 Project](OracleSortCardGame.html)**
 Oracle Sort Card Game                                                            
 Project leader - Mr. Walmer
