@@ -10,7 +10,6 @@ This is a link to the videos we watched in case you missed them.
 
 
 ### **Week 1 Videos**                                
-### **STEM Club Grant Video**
 This is a short video about the STEM club grant that our high school received from the National Science Foundation.
 {% include youtube-video.html url="https://www.youtube.com/embed/KlIaY6aWdjo" %}
 
@@ -94,7 +93,7 @@ This is a short video about the benefits of STEM Careers.
 **[Wildlife Conservationist](https://careerinstem.com/product/wildlife-conservationist/)**              
 
 
-### **[Week 18 and beyond Videos]**                                             
+### **Week 18 and beyond Videos**                                             
 **[Astronaut](https://careerinstem.com/product/astronaut/)**                     
 **[Bioacoustic Researcher](https://careerinstem.com/product/bioacoustic-researcher/)**                 
 **[Biofuels Processing Technician](https://careerinstem.com/product/biofuels-processing-technician/)**           
