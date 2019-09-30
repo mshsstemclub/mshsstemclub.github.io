@@ -10,7 +10,7 @@ This is a link to the videos we watched in case you missed them.
 
 
 ### **Week 1 Videos**                                
-This is a short video about the STEM club grant that our high school received from the National Science Foundation.
+This is a short video about the STEM club grant that our high school received from the National Science Foundation.                            
 **[STEM club grant](https://www.youtube.com/embed/KlIaY6aWdjo)**
 
 
