@@ -29,6 +29,3 @@ Dr. Lara Hebert met with our students to have them complete an online STEMclub s
 
 ![](images/ProjectWeek5AdditionalD.jpg)
 
-
-
-![](images/ProjectWeek5AdditionalE.jpg)
