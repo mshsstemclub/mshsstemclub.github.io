@@ -1,5 +1,5 @@
 ---
-title: Project 4
+title: Week 4 Project
 description: Circuits and Using Digital Multimeters
 layout: navbar
 ---
