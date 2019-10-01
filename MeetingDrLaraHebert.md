@@ -19,8 +19,16 @@ Dr. Lara Hebert met with our students to have them complete an online STEMclub s
 # **[Parent permission form for the survey](/documents/SurveyParentConsentForm.pdf)**
 
 
-![]()
+![](images/ProjectWeek5AdditionalB.jpg)
 
 
 
-![]()
+![](images/ProjectWeek5AdditionalC.jpg)
+
+
+
+![](images/ProjectWeek5AdditionalD.jpg)
+
+
+
+![](images/ProjectWeek5AdditionalE.jpg)
