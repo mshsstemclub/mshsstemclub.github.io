@@ -14,11 +14,13 @@ layout: navbar
 # **STEM Club Survey**
 Meeting leader - Dr. Lara Hebert 
 
-Dr. Lara Hebert met with our students to have them complete an online STEMclub survey.
+Dr. Lara Hebert met with our students to have them complete a STEM club survey.  
+The surveys will be used to improve STEM clubs in the state.
 
-# **[Parent permission form for the survey](/documents/SurveyParentConsentForm.pdf)**
+# **[Parent permission form for the survey](/documents/SurveyParentConsentForm.pdf)**                       
+                                                        
 
-
+                                                                    
 ![](images/ProjectWeek5AdditionalB.jpg)
 
 
