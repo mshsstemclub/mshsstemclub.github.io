@@ -14,7 +14,7 @@ Advertising and Design Team Lead - Ethan Grinberg
                                            
                                                                                       
 ## **STEM Club Fund Raising Team**                       
-Publicity Team Lead - Cece Abramson                                                                             
+Fund Raising Team Lead - Cece Abramson                                                                             
                                              
                                             
                                                                                                 
