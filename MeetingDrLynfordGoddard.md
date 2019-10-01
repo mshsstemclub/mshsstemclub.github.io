@@ -1,5 +1,5 @@
 ---
-title: Project 3 Additional Meeting
+title: Week 3 Additional Meeting
 description: Meeting Dr. Lynford Goddard                      
 layout: navbar
 ---
