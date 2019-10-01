@@ -11,13 +11,13 @@ layout: navbar
 
 ![](images/ProjectWeek5A.jpg)
 
-### **Hannah Kittivanichkulkrai's Presentation on her summer research project**
+## **Hannah Kittivanichkulkrai's presentation on her summer research project**
 Project lead - Hannah Kittivanichkulkrai
 
 ![](images/ProjectWeek5B.jpg)
 
 
-### **Learning about the neutrinoless double beta decay research Hannah Kittivanichkulkrai did at a STEM camp the summer of 2019.**                                                          
+## **Learning about the neutrinoless double beta decay research Hannah Kittivanichkulkrai did at a STEM camp the summer of 2019.**                                                          
                                                                  
                                                                       
 Hannah Kittivanichkulkrai went to the University of Illinois STEM camps the summer of 2019.  
