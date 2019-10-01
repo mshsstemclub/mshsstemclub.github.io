@@ -9,7 +9,7 @@ layout: navbar
 
 ## **STEM Club Week 5 Additional Meeting**
 
-![]()
+![](images/ProjectWeekAdditional5A.jpg)
 
 # **STEM Club Survey**
 Meeting leader - Dr. Lara Hebert 
