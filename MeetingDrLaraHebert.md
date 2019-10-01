@@ -18,14 +18,20 @@ Dr. Lara Hebert met with our students to have them complete a STEM club survey.
 The surveys will be used to improve STEM clubs in the state.
 
 # **[Parent permission form for the survey](/documents/SurveyParentConsentForm.pdf)**                       
-                                                                                                     
+        
+        
+        
                                                                                                             
-# **[Parent permission form for the survey](/documents/StemMinorAssent.pdf)**                         
+# **[Minor Assent Form](/documents/StemMinorAssent.pdf)**                         
                                                                                                             
-                                                                                                        
-# **[Parent permission form for the survey](/documents/StemSelfEfficacySurvey.pdf)**                      
+                        
+                        
+                        
+# **[Self-Efficacy Survey](/documents/StemSelfEfficacySurvey.pdf)**                      
                                                                                                  
-                                                                                                           
+               
+               
+               
                                                                                                            
                                                                     
 ![](images/ProjectWeek5AdditionalB.jpg)
