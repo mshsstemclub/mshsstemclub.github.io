@@ -1,5 +1,5 @@
 ---
-title: Project 3
+title: Week 3 Project
 description: Exploring Experimental Design Activity 
 layout: navbar
 ---
