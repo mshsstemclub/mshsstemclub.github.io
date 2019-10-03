@@ -15,23 +15,25 @@ layout: navbar
 Meeting leader - Dr. Lara Hebert 
 
 Dr. Lara Hebert met with our students to have them complete a STEM club survey.  
-The surveys will be used to improve STEM clubs in the state.
+The surveys will be used to improve STEM clubs in the state.                 
+Part of the reason for the survey is to study how the STEM club activities relate to student interests, knowledge, and skills in the areas of science, technology, engineering, and mathematics.                            
+                                                                                                                                                
 
-# **[Parent permission form for the survey](/documents/SurveyParentConsentForm.pdf)**                       
-        
+## **[Parent permission form for the survey](/documents/SurveyParentConsentForm.pdf)**                       
+                                                                                                                                                 
         
         
                                                                                                             
-# **[Minor Assent Form](/documents/StemMinorAssent.pdf)**                         
+## **[Minor Assent Form](/documents/StemMinorAssent.pdf)**                         
                                                                                                             
+                                                                                                                                                 
                         
                         
-                        
-# **[Self-Efficacy Survey](/documents/StemSelfEfficacySurvey.pdf)**                      
+## **[Self-Efficacy Survey](/documents/StemSelfEfficacySurvey.pdf)**                      
                                                                                                  
                
                
-               
+                                                                                                                                                       
                                                                                                            
                                                                     
 ![](images/ProjectWeek5AdditionalB.jpg)
