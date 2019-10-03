@@ -8,8 +8,25 @@ layout: navbar
 STEM Club members use their talents to help the club by being different team leads.**
                    
 
-# **STEM Club Advertising and Design Team**                       
+## **STEM Club Advertising and Design Team**                       
 Advertising and Design Team Lead - Ethan Grinberg          
-
-# **STEM Club Website Development Team**                     
+                                            
+                                           
+                                                                                      
+## **STEM Club Fund Raising Team**                       
+Fund Raising Team Lead - Cece Abramson                                                                             
+                                             
+                                            
+                                                                                                
+## **STEM Club Outreach Team**                       
+Outreach Team Lead - Abby Moser                                                                             
+                                             
+                                            
+                                                                                                
+## **STEM Club Publicity Team**                       
+Publicity Team Lead - Gaby Davis                                  
+                                             
+                                            
+                                                                                                
+## **STEM Club Website Development Team**                     
 Website Development Team Lead - Grant Garrison

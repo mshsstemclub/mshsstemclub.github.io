@@ -1,5 +1,5 @@
 ---
-title: Project 1
+title: Week 1 Project
 description: Oracle Sort Card Game 
 layout: navbar
 ---
