@@ -18,6 +18,11 @@ Fund Raising Team Lead - Cece Abramson
                                              
                                             
                                                                                                 
+## **STEM Club Outreach Team**                       
+Outreach Team Lead - Abby Moser                                                                             
+                                             
+                                            
+                                                                                                
 ## **STEM Club Publicity Team**                       
 Publicity Team Lead - Gaby Davis                                  
                                              
