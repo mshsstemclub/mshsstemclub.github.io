@@ -40,7 +40,7 @@ Meeting Dr. Lara Hebert
 Presenter - Dr. Lara Hebert      
                                                                     
                                                                                                                                                      
-### **Week 6 Project**                                                                         
+### **[Week 6 Project](BuildingAResistorToProvideLightFromAnLED.html)**                                                                    
 Building a Resistor to Provide Light from an LED                                                                  
 Project lead - Mr. Walmer                                                                           
                                                                                                 
