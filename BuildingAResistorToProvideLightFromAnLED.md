@@ -32,7 +32,7 @@ Students used probe cables, a Protoboard, resistors, LED, battery clips.
                                                                                                      
                                                                                                            
                                                                                                                 
-![](images/STEMClubProjectWeek6A.jpg)                                                                
+![](images/STEMClubProjectWeek6A.jpg)                                                                    
 
 ![](images/STEMClubProjectWeek6C.jpg)
 
