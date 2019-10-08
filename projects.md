@@ -32,20 +32,25 @@ Project lead - Mr. Koker
 
 
 ### **[Week 5 Project](Project5.html)**
-Neutrinoless Double Beta Decay Research done by Hannah Kittivanichkulkrai Activity                                                                
-Project lead - Hannah Kittivanichkulkrai
+Neutrinoless Double Beta Decay Research done by Hannah Kittivanichkulkrai Activity                                                      
+Project lead - Hannah Kittivanichkulkrai                                                                 
 
 ### **[Week 5 Additional Meeting](MeetingDrLaraHebert.html)**                       
 Meeting Dr. Lara Hebert                         
 Presenter - Dr. Lara Hebert      
-
-
-### **Week 6 Project**
+                                                                    
+                                                                                                                                                     
+### **[Week 6 Project](BuildingAResistorToProvideLightFromAnLED.html)**                                                                    
+Building a Resistor to Provide Light from an LED                                                                  
+Project lead - Mr. Walmer                                                                           
+                                                                                                
+                                                                                                     
+### **Week 7 Project**
 Refraction Activity                                                                
 Project lead - Mr. Koker
 
 
-### **Week 7 Project**
+### **Week 8 Project**
 Paper holder for lens                                                                
 Project lead - TBD
 
