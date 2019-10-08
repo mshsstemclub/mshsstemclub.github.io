@@ -19,11 +19,20 @@ Project lead - Mr. Walmer
 
 This project students worked together to build a resistor to provide maximum light output from an LED while maintaing safe current.      
 
-Students were given a quick lesson on Ohms, volts, and amps.
+Students were given a quick lesson on Ohms, volts, and amps.                                   
 
-Students used probe cables, a Protoboard, resistors, LED, battery clips.
+Volts = Amperes x Ohms                                        
 
-![](images/STEMClubProjectWeek6A.jpg)
+Kirchoff's Law (KVL): Voltage dropped in closed loop is zero, energy conservation.                              
+
+Current Law (KCL): Current flowing into junction point equals current flowing out, charge conservation.                   
+
+Students used probe cables, a Protoboard, resistors, LED, battery clips.                    
+                                                                                         
+                                                                                                     
+                                                                                                           
+                                                                                                                
+![](images/STEMClubProjectWeek6A.jpg)                                                                
 
 ![](images/STEMClubProjectWeek6C.jpg)
 
