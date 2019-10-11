@@ -1,6 +1,6 @@
 ---
 title: Week 6 Project
-description: Building a resistor to provide light from an LED
+description: Building a resistor circuit to provide light from an LED
 layout: navbar
 ---
 
@@ -11,13 +11,13 @@ layout: navbar
 
 ![](images/STEMClubProjectWeek6O.jpg)
 
-# **Building a resistor to provide light from an LED**
+# **Building a resistor circuit to provide light from an LED**
 
 Project lead - Mr. Walmer
 
 ![](images/STEMClubProjectWeek6B.jpg)
 
-This project students worked together to build a resistor to provide maximum light output from an LED while maintaing safe current.      
+This project students worked together to build a resistor circuit to provide maximum light output from an LED while maintaing safe current.      
 
 Students were given a quick lesson on Ohms, volts, and amps.                                   
 
