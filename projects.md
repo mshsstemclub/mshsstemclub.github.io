@@ -41,7 +41,7 @@ Presenter - Dr. Lara Hebert
                                                                     
                                                                                                                                                      
 ### **[Week 6 Project](BuildingAResistorToProvideLightFromAnLED.html)**                                                                    
-Building a Resistor to Provide Light from an LED                                                                  
+Building a Resistor Circuit to Provide Light from an LED                                                                  
 Project lead - Mr. Walmer                                                                           
                                                                                                 
                                                                                                      
