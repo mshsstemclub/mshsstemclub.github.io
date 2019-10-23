@@ -45,12 +45,17 @@ Building a Resistor Circuit to Provide Light from an LED
 Project lead - Mr. Walmer                                                                           
                                                                                                 
                                                                                                      
-### **Week 7 Project**
+### **[Week 7 Project](BuildingAMicroscope.html)**
+Building a Microscope Activity                                                                
+Project lead - Mr. Walmer and Mr. Koker
+
+                                                                                                     
+### **Week 8 Project**
 Refraction Activity                                                                
 Project lead - Mr. Koker
 
 
-### **Week 8 Project**
+### **Week 9 Project**
 Paper holder for lens                                                                
 Project lead - TBD
 
