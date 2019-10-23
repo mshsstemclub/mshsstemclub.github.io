@@ -15,12 +15,13 @@ layout: navbar
 
 Project lead - Mr. Walmer and Mr. Koker
 
-![](images/STEMClubProjectWeek7B.jpg)
+                                                                                      
 
-This project students worked independently and together to build a microscope.             
+This project students worked independently and together to build a microscope. 
+Each student was given a kit with a microscope they built by folding pieces of thick paper and adding lenses.
                                                                                          
-                                                                                                     
-                                                                                                           
+![](images/STEMClubProjectWeek7B.jpg)                                                                                                    
+                                                                                                         
                                                                                                                 
 ![](images/STEMClubProjectWeek7C.jpg)                                                                    
 
