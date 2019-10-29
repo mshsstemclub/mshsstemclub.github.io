@@ -49,13 +49,23 @@ Project lead - Mr. Walmer
 Building a Microscope Activity                                                                
 Project lead - Mr. Walmer and Mr. Koker
 
-                                                                                                     
-### **Week 8 Project**
+                       
+### **[Week 8 Project](BuildingAMicroscopeDay2.html)**
+Building a Microscope Day 2 Activity                                                                
+Project lead - Mr. Walmer and Mr. Koker
+                        
+                   
+### **Week 9 Project**                                                                    
+Building a Resistor Circuit to Provide Light from an LED                                                                  
+Project lead - Mr. Walmer                                                                           
+                                                                                                
+                            
+### **Week 10 Project**
 Refraction Activity                                                                
 Project lead - Mr. Koker
 
 
-### **Week 9 Project**
+### **Week 11 Project**
 Paper holder for lens                                                                
 Project lead - TBD
 
