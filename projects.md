@@ -56,7 +56,7 @@ Project lead - Mr. Walmer and Mr. Koker
                         
                    
 ### **Week 9 Project**                                                                    
-Building a Resistor Circuit to Provide Light from an LED                                                                  
+Building a Tranistor Circuits                                                             
 Project lead - Mr. Walmer                                                                           
                                                                                                 
                             
