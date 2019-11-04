@@ -9,7 +9,7 @@ layout: navbar
 
 ## **STEM Club Week 9 Project**
 
-![](images/STEMClubProjectWeek9A.jpg)
+![](images/STEMClubProjectWeek9A.jepg)
 
 # **Building Transitor Circuits**
 
@@ -20,15 +20,39 @@ Project lead - Mr. Walmer
 This project students worked together to build transitor circuits. 
 Each group of students wer given a kit with a bread board, capacitors, resistors, transistors, a battery pack, an LED.
                                                                                          
-![](images/STEMClubProjectWeek9B.jpg)                                                                                                    
+![](images/STEMClubProjectWeek9B.jpeg)                                                                                                    
                                                                                                          
                                                                                                                 
-![](images/STEMClubProjectWeek9C.jpg)                                                                    
+![](images/STEMClubProjectWeek9C.jpeg)                                                                    
 
-![](images/STEMClubProjectWeek9D.jpg)
+![](images/STEMClubProjectWeek9D.jpeg)
 
-![](images/STEMClubProjectWeek9E.jpg)
+![](images/STEMClubProjectWeek9E.jpeg)
 
-![](images/STEMClubProjectWeek9F.jpg)
+![](images/STEMClubProjectWeek9F.jpeg)
 
-![](images/STEMClubProjectWeek9G.jpg)
+![](images/STEMClubProjectWeek9G.jpeg)
+
+![](images/STEMClubProjectWeek9H.jpeg)                                                                    
+
+![](images/STEMClubProjectWeek9I.jpeg)
+
+![](images/STEMClubProjectWeek9J.jpeg)
+
+![](images/STEMClubProjectWeek9K.jpeg)
+
+![](images/STEMClubProjectWeek9L.jpeg)
+
+![](images/STEMClubProjectWeek9M.jpeg)                                                                    
+
+![](images/STEMClubProjectWeek9N.jpeg)
+
+![](images/STEMClubProjectWeek9O.jpeg)
+
+![](images/STEMClubProjectWeek9P.jpeg)
+
+![](images/STEMClubProjectWeek9Q.jpeg)
+
+![](images/STEMClubProjectWeek9R.jpeg)                                                                    
+
+![](images/STEMClubProjectWeek9S.jpeg)
