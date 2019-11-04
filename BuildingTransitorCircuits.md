@@ -9,7 +9,7 @@ layout: navbar
 
 ## **STEM Club Week 9 Project**
 
-![](images/STEMClubProjectWeek9K.jepg)
+![](images/STEMClubProjectWeek9K.jpeg)  
 
 # **Building Transitor Circuits**
 
