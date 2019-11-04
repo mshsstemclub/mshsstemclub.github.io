@@ -55,8 +55,8 @@ Building a Microscope Day 2 Activity
 Project lead - Mr. Walmer and Mr. Koker
                         
                    
-### **Week 9 Project**                                                                    
-Building a Tranistor Circuits                                                             
+### **[Week 9 Project](BuildingTransitorCircuits.html)**                                                                    
+Building Transitor Circuits                                                             
 Project lead - Mr. Walmer                                                                           
                                                                                                 
                             
