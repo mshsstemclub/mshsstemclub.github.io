@@ -54,3 +54,4 @@ Each group of students wer given a kit with a bread board, capacitors, resistors
 ![](images/STEMClubProjectWeek9R.jpeg)                                                                    
 
 ![](images/STEMClubProjectWeek9S.jpeg)
+
