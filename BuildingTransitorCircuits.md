@@ -18,7 +18,7 @@ Project lead - Mr. Walmer
                                                                                       
 
 This project students worked together to build transitor circuits. 
-Each group of students wer given a kit with a bread board, capacitors, resistors, transistors, a battery pack, an LED.
+Each group of students wer given a kit with a bread board, capacitors, resistors, transistors, a battery pack, and LED.
                                                                                          
 ![](images/STEMClubProjectWeek9B.jpeg)                                                                                                    
                                                                                                          
