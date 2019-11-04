@@ -9,7 +9,7 @@ layout: navbar
 
 ## **STEM Club Week 9 Project**
 
-![](images/STEMClubProjectWeek9A.jepg)
+![](images/STEMClubProjectWeek9K.jepg)
 
 # **Building Transitor Circuits**
 
@@ -38,8 +38,6 @@ Each group of students wer given a kit with a bread board, capacitors, resistors
 ![](images/STEMClubProjectWeek9I.jpeg)
 
 ![](images/STEMClubProjectWeek9J.jpeg)
-
-![](images/STEMClubProjectWeek9K.jpeg)
 
 ![](images/STEMClubProjectWeek9L.jpeg)
 
