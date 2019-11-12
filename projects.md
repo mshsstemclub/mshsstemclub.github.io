@@ -60,12 +60,17 @@ Building Transitor Circuits
 Project lead - Mr. Walmer                                                                           
                                                                                                 
                             
-### **Week 10 Project**
+### **[Week 10 Project](BuildingTransitorCircuitsPart2.html)** 
+Building Transitor Circuits                                                             
+Project lead - Mr. Walmer                                                                   
+                                                                
+                                                                           
+### **Week 11 Project**
 Refraction Activity                                                                
 Project lead - Mr. Koker
 
 
-### **Week 11 Project**
+### **Week 12 Project**
 Paper holder for lens                                                                
 Project lead - TBD
 
