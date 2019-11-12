@@ -56,12 +56,12 @@ Project lead - Mr. Walmer and Mr. Koker
                         
                    
 ### **[Week 9 Project](BuildingTransitorCircuits.html)**                                                                    
-Building Transitor Circuits                                                             
+Building Transitor Circuits Activity                                                            
 Project lead - Mr. Walmer                                                                           
                                                                                                 
                             
 ### **[Week 10 Project](BuildingTransitorCircuitsPart2.html)** 
-Building Transitor Circuits                                                             
+Building Transitor Circuits Day 2 Activity                                                            
 Project lead - Mr. Walmer                                                                   
                                                                 
                                                                            
@@ -71,7 +71,7 @@ Project lead - Mr. Koker
 
 
 ### **Week 12 Project**
-Paper holder for lens                                                                
+Paper holder for lens Activity                                                                
 Project lead - TBD
 
 
