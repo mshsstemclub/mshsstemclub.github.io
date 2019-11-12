@@ -24,7 +24,7 @@ Students tried a different project with circuits in the second week in this area
 
 ![](images/STEMClubProjectWeek10B.jpeg)
 
-![](images/STEMClubProjectWeek10C.jpeg)
+![](images/STEMClubProjectWeek10.jpeg)
 
 ![](images/STEMClubProjectWeek10D.jpeg)
 
