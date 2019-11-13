@@ -17,7 +17,7 @@ Project lead - Mr. Walmer
 
                                                                                       
 
-This project students worked together to build transitor circuits. 
+This project students worked together or independently to build transitor circuits. 
 Each group of students wer given a kit with a bread board, capacitors, resistors, transistors, a battery pack, and LED.
 Students tried a different project with circuits in the second week in this activity.
                                                                                          
@@ -26,17 +26,17 @@ Students tried a different project with circuits in the second week in this acti
 
 ![](images/STEMClubProjectWeek10C.jpeg)
 
-![](images/STEMClubProjectWeek10D.jpeg)
+![](images/STEMClubProjectWeek10E.jpeg)
 
-![](images/STEMClubProjectWeek10E.jpeg)                                                                    
-
-![](images/STEMClubProjectWeek10F.jpeg)
+![](images/STEMClubProjectWeek10D.jpeg)                                                                    
 
 ![](images/STEMClubProjectWeek10G.jpeg)
 
-![](images/STEMClubProjectWeek10H.jpeg)
+![](images/STEMClubProjectWeek10F.jpeg)
 
-![](images/STEMClubProjectWeek10I.jpeg)                                                                    
+![](images/STEMClubProjectWeek10I.jpeg)
+
+![](images/STEMClubProjectWeek10H.jpeg)                                                                    
 
 ![](images/STEMClubProjectWeek10J.jpeg)
 
