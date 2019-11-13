@@ -22,27 +22,27 @@ Each group of students wer given a kit with a bread board, capacitors, resistors
 Students tried a different project with circuits in the second week in this activity.
                                                                                          
 
-![](images/STEMClubProjectWeek10B.jpeg)
+![](images/STEMClubProjectWeek10BB.jpeg)
 
 ![](images/STEMClubProjectWeek10C.jpeg)
 
-![](images/STEMClubProjectWeek10E.jpeg)
+![](images/STEMClubProjectWeek10DD.jpeg)
 
-![](images/STEMClubProjectWeek10D.jpeg)                                                                    
+![](images/STEMClubProjectWeek10EE.jpeg)                                                                    
 
-![](images/STEMClubProjectWeek10G.jpeg)
+![](images/STEMClubProjectWeek10FF.jpeg)
 
-![](images/STEMClubProjectWeek10F.jpeg)
+![](images/STEMClubProjectWeek10GG.jpeg)
 
-![](images/STEMClubProjectWeek10I.jpeg)
+![](images/STEMClubProjectWeek10HH.jpeg)
 
-![](images/STEMClubProjectWeek10H.jpeg)                                                                    
+![](images/STEMClubProjectWeek10II.jpeg)                                                                    
 
-![](images/STEMClubProjectWeek10J.jpeg)
+![](images/STEMClubProjectWeek10JJ.jpeg)
 
-![](images/STEMClubProjectWeek10K.jpeg)
+![](images/STEMClubProjectWeek10KK.jpeg)
 
-![](images/STEMClubProjectWeek10L.jpeg)
+![](images/STEMClubProjectWeek10LL.jpeg)
 
 ![](images/STEMClubProjectWeek10M.jpeg)
 
