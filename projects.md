@@ -65,9 +65,9 @@ Building Transitor Circuits Day 2 Activity
 Project lead - Mr. Walmer                                                                   
                                                                 
                                                                            
-### **Week 11 Project**
-Refraction Activity                                                                
-Project lead - Mr. Koker
+### **[Week 11 Project](Soldering.html)**
+Soldering Activity                                                                
+Project lead - Mr. Walmer
 
 
 ### **Week 12 Project**
@@ -75,4 +75,7 @@ Paper holder for lens Activity
 Project lead - TBD
 
 
+### **Week 12 Project**
+Refraction Activity                                                                
+Project lead - Mr. Koker
 
