@@ -9,7 +9,7 @@ layout: navbar
 
 ## **STEM Club Week 11 Project**
 
-![](images/STEMClubProjectWeek11A.jpeg)  
+![](images/STEMClubProjectWeek11F.jpeg)  
 
 # **Soldering**
 
@@ -27,8 +27,6 @@ This project students worked together and independently to learn to solder.  The
 ![](images/STEMClubProjectWeek11D.jpeg)
 
 ![](images/STEMClubProjectWeek11E.jpeg)                                                                    
-
-![](images/STEMClubProjectWeek11F.jpeg)
 
 ![](images/STEMClubProjectWeek11G.jpeg)
 
