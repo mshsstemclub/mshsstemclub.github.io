@@ -7,7 +7,7 @@ layout: navbar
 **The Mahomet-Seymour High School STEM Club provides opportunities for students to participate and lead STEM projects each meeting.** 
 
 
-## **STEM Club Week 10 Project**
+## **STEM Club Week 11 Project**
 
 ![](images/STEMClubProjectWeek11A.jpeg)  
 
