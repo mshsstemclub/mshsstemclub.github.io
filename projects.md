@@ -70,12 +70,17 @@ Soldering Activity
 Project lead - Mr. Walmer
 
 
-### **Week 12 Project**
+### **[Week 12 Project](SolderingDay2.html)**
+Soldering Activity Day 2                                                                
+Project lead - Mr. Walmer
+
+
+### **Week 13 Project**
 Paper holder for lens Activity                                                                
 Project lead - TBD
 
 
-### **Week 12 Project**
+### **Week 14 Project**
 Refraction Activity                                                                
 Project lead - Mr. Koker
 
