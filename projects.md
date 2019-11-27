@@ -70,7 +70,7 @@ Soldering Activity
 Project lead - Mr. Walmer
 
 
-### **[Week 12 Project](SolderingDay2.html)**
+### **[Week 11 Project](SolderingDay2.html)**
 Soldering Day 2 Activity                                                                
 Project lead - Mr. Walmer
 
