@@ -69,8 +69,7 @@ A video about the STEM club grant that we received from the National Science Fou
 
 ### **Week 13 Videos**                                
 **[Urban Planner](https://careerinstem.com/product/urban-planner/)**                             
-**[Pediatrician](https://www.candidcareer.com/video-pediatrician,310896dce21303a8e7fd)**                   
-**[Ultrasound Technologist](https://careerinstem.com/product/ultrasound-technologist/)**                                     
+**[Pediatrician](https://www.candidcareer.com/video-pediatrician,310896dce21303a8e7fd)**                             
 **[Software Engineer](https://www.candidcareer.com/video-software+engineer,f7dff83fc607c5044b2b)**                         
 
 
@@ -147,19 +146,19 @@ A video about the STEM club grant that we received from the National Science Fou
                                                                             
 ### **Week 27 Videos**                                             
 **[Medical Researcher](https://www.candidcareer.com/video-medical+scientist,b32b07dd7f645153ee35)**                                                      
-**[]()**                                                      
+**[Pharmacist](https://www.candidcareer.com/video-pharmacist,f6fadfee2190700789d7)**                                                      
 **[]()**                                                      
                                                      
                                                                         
 ### **Week 28 Videos**                                             
 **[Neuroscientist](https://www.candidcareer.com/video-neuroscientist,2a84b9295c4787772944)**                                                      
 **[Occupational Therapist](https://www.candidcareer.com/video-occupational+therapist,302bf877f1f11e8ffef5)**                                                      
-**[]()**                                                      
+**[Cyber Security Professor](https://www.candidcareer.com/video-cybersecurity+professor,e4982e90874d6747e4e5)**                                                      
                                                                        
                                                                        
 ### **Week 29 Videos**                                             
 **[Nuclear Medicine Technician](https://www.candidcareer.com/video-nuclear+medicine+technologist,2c110d21287b3dad1386)**                                                      
-**[]()**                                                      
+**[Computer Games Programmer](https://www.candidcareer.com/video-game+programmer,547eb89c72b9bac20931)**                                                      
 **[]()**                                                      
                                                                                    
                                                                           
