@@ -118,17 +118,58 @@ A video about the STEM club grant that we received from the National Science Fou
 ### **Week 22 Videos**                                
 **[Demographer](https://careerinstem.com/product/demographer/)**                         
 **[Drone Pilot](https://careerinstem.com/product/drone-pilot/)**                 
-
+**[]()**                                                      
+                                                                       
 
 ### **Week 23 Videos**                                
 **[Paleoanthropologist](https://careerinstem.com/product/paleoanthropologist/)**                                                                   
 **[Zoologist](https://careerinstem.com/product/zoologist/)**                            
-
-
+**[]()**                                                      
+                                                                               
+                                                
 ### **Week 24 Videos**                                             
 **[Hydrologist](https://careerinstem.com/product/hydrologist/)**                                                       
 **[Nematologist](https://careerinstem.com/product/nematologist/)**                                                                              
+**[]()**                                                      
 
-
-### **Week 25 and beyond Videos**                                             
-**[Zoonotic Epidemiologist](https://careerinstem.com/product/zoonotic-epidemiologist/)**                 
+### **Week 25 Videos**                                             
+**[Zoonotic Epidemiologist](https://careerinstem.com/product/zoonotic-epidemiologist/)**                       
+**[]()**                                                      
+**[]()**                                                      
+                                                                                                                                                                              
+                                                                              
+### **Week 26 Videos**                                             
+**[]()**                                                      
+**[]()**                                                      
+**[]()**                                                      
+                                                     
+                                                                            
+### **Week 27 Videos**                                             
+**[]()**                                                      
+**[]()**                                                      
+**[]()**                                                      
+                                                     
+                                                                        
+### **Week 28 Videos**                                             
+**[]()**                                                      
+**[]()**                                                      
+**[]()**                                                      
+                                                                       
+                                                                       
+### **Week 29 Videos**                                             
+**[]()**                                                      
+**[]()**                                                      
+**[]()**                                                      
+                                                                                   
+                                                                          
+### **Week 30 Videos**                                             
+**[]()**                                                      
+**[]()**                                                      
+**[]()**                                                      
+                                                                    
+                                                                          
+### **Week 31 Videos**                                             
+**[]()**                                                      
+**[]()**                                                      
+**[]()**                                                      
+                                                       
