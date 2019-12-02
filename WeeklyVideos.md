@@ -81,32 +81,38 @@ A video about the STEM club grant that we received from the National Science Fou
 
 ### **Week 15 Videos**                                
 **[Dietician](https://careerinstem.com/product/dietician/)**                
-**[Computational Research Scientist](https://careerinstem.com/product/computational-research-scientist/)**                 
+**[Computational Research Scientist](https://careerinstem.com/product/computational-research-scientist/)**                   
+**[Electromagnetic Engineer](https://www.candidcareer.com/video-electromagnetic+engineer,dfc64c0027fa84709689)**
 
 
 ### **Week 17 Videos**                                
 **[Physicist](https://careerinstem.com/product/physicist/)**                                     
-**[Wildlife Conservationist](https://careerinstem.com/product/wildlife-conservationist/)**              
+**[Wildlife Conservationist](https://careerinstem.com/product/wildlife-conservationist/)**                              
+**[Biotechnologist](https://www.candidcareer.com/video-biotechnologist,cb970f96f706e4b12617)**                   
 
 
 ### **Week 18 Videos**                                
 **[Astronaut](https://careerinstem.com/product/astronaut/)**                     
-**[Bioacoustic Researcher](https://careerinstem.com/product/bioacoustic-researcher/)**                 
+**[Bioacoustic Researcher](https://careerinstem.com/product/bioacoustic-researcher/)**                                
+**[Chemist](https://www.candidcareer.com/video-chemist,14b12aa71e976505e02b)**                           
 
 
 ### **Week 19 Videos**                                
 **[Biofuels Processing Technician](https://careerinstem.com/product/biofuels-processing-technician/)**           
-**[Biologist](https://careerinstem.com/product/biologist/)**                                        
+**[Biologist](https://careerinstem.com/product/biologist/)**                                                     
+**[Chemistry Professor](https://www.candidcareer.com/video-chemistry+professor,9b7b78532779f6ca9420)**        
 
 
 ### **Week 20 Videos**                                
 **[Construction Manager](https://careerinstem.com/product/construction-manager/)**                
-**[Crystallographer](https://careerinstem.com/product/crystallographer/)**                            
+**[Crystallographer](https://careerinstem.com/product/crystallographer/)**                                       
+**[Exercise Physiologist](https://www.candidcareer.com/video-exercise+physiologist,e13a2129d58d8d8c09a8)**            
 
 
 ### **Week 21 Videos**                                
 **[Fiber Optic Technician](https://careerinstem.com/product/fiber-optic-technician/)**               
-**[Forester](https://careerinstem.com/product/forester/)**                                    
+**[Forester](https://careerinstem.com/product/forester/)**                                          
+**[Genetics Counselor](https://www.candidcareer.com/video-genetic+counselor,0e3e1d41bf75969e64ce)**              
 
 
 ### **Week 22 Videos**                                
