@@ -69,14 +69,14 @@ A video about the STEM club grant that we received from the National Science Fou
 
 ### **Week 13 Videos**                                
 **[Urban Planner](https://careerinstem.com/product/urban-planner/)**                  
-**[Ultrasound Technologist](https://careerinstem.com/product/ultrasound-technologist/)** 
-**[Software Engineer](https://www.candidcareer.com/video-software+engineer,f7dff83fc607c5044b2b)**
-**[Web Developer](https://www.candidcareer.com/video-web+developer,ee44c9594af615a9de86)**
+**[Ultrasound Technologist](https://careerinstem.com/product/ultrasound-technologist/)**                                     
+**[Software Engineer](https://www.candidcareer.com/video-software+engineer,f7dff83fc607c5044b2b)**                         
 
 
 ### **Week 14 Videos**                                
 **[Electrical Engineer](https://careerinstem.com/product/electrical-engineer/)**                                   
-**[X-Ray Technician](https://careerinstem.com/product/x-ray-technician/)**                
+**[X-Ray Technician](https://careerinstem.com/product/x-ray-technician/)**                                      
+**[Web Developer](https://www.candidcareer.com/video-web+developer,ee44c9594af615a9de86)**                 
 
 
 ### **Week 15 Videos**                                
