@@ -71,7 +71,7 @@ A video about the STEM club grant that we received from the National Science Fou
 **[Urban Planner](https://careerinstem.com/product/urban-planner/)**                  
 **[Ultrasound Technologist](https://careerinstem.com/product/ultrasound-technologist/)** 
 **[Software Engineer](https://www.candidcareer.com/video-software+engineer,f7dff83fc607c5044b2b)**
-https://www.candidcareer.com/video-web+developer,ee44c9594af615a9de86
+**[Web Developer](https://www.candidcareer.com/video-web+developer,ee44c9594af615a9de86)**
 
 
 ### **Week 14 Videos**                                
