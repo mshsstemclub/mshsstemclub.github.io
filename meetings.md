@@ -29,6 +29,29 @@ Monday, November 25
                                                   
 Monday, December 2                                    
 Monday, December 9                                   
-Monday, December 16                                            
-                                         
+Monday, December 16                                                                                                    
+                                                                        
+Monday, January 6                                               
+Monday, January 13                                      
+Monday, January 20                                     
+Monday, January 27                           
+                                                                     
+Monday, February                                     
+Monday, February                                                                  
+Monday, February                                     
+                                                         
+Monday, March                                          
+Monday, March                                  
+Monday, March                                
+Monday, March                                    
+                                                  
+Monday, April                                    
+Monday, April                                   
+Monday, April                                                    
+Monday, April                                                  
+                                                                                 
+Monday, May                                  
+Monday, May                                
+Monday, May                                    
+                                                                                            
 The Mahomet-Seymour High School STEM Club's first meeting was on August 26, 2019.
