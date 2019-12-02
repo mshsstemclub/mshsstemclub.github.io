@@ -147,7 +147,7 @@ A video about the STEM club grant that we received from the National Science Fou
 ### **Week 27 Videos**                                             
 **[Medical Researcher](https://www.candidcareer.com/video-medical+scientist,b32b07dd7f645153ee35)**                                                      
 **[Pharmacist](https://www.candidcareer.com/video-pharmacist,f6fadfee2190700789d7)**                                                      
-**[]()**                                                      
+**[Weather Forecaster](https://www.candidcareer.com/video-weather+forecaster,b499ad1fca944e6f5c83)**                                                      
                                                      
                                                                         
 ### **Week 28 Videos**                                             
@@ -164,7 +164,7 @@ A video about the STEM club grant that we received from the National Science Fou
                                                                           
 ### **Week 30 Videos**                                             
 **[]()**                                                      
-**[]()**                                                      
+**[Mobile Engineer]https://www.candidcareer.com/video-mobile+engineer,7cf153771824cc0b0009)**                                                      
 **[Ultrasound Technologist](https://careerinstem.com/product/ultrasound-technologist/)**                                  
                                                                     
                                                                           
