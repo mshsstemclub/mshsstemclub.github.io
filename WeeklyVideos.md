@@ -159,17 +159,17 @@ A video about the STEM club grant that we received from the National Science Fou
 ### **Week 29 Videos**                                             
 **[Nuclear Medicine Technician](https://www.candidcareer.com/video-nuclear+medicine+technologist,2c110d21287b3dad1386)**                                                      
 **[Computer Games Programmer](https://www.candidcareer.com/video-game+programmer,547eb89c72b9bac20931)**                                                      
-**[]()**                                                      
+**[Robot Programmer](https://www.candidcareer.com/video-robot+programmer,02f520d2f48ad1a57019)**                                                      
                                                                                    
                                                                           
 ### **Week 30 Videos**                                             
-**[]()**                                                      
-**[Mobile Engineer]https://www.candidcareer.com/video-mobile+engineer,7cf153771824cc0b0009)**                                                      
+**[Phyiscal Therapist](https://www.candidcareer.com/video-physical+therapist,4b0f404d4219625ca24c)**                                                      
+**[Mobile Engineer](https://www.candidcareer.com/video-mobile+engineer,7cf153771824cc0b0009)**                                                      
 **[Ultrasound Technologist](https://careerinstem.com/product/ultrasound-technologist/)**                                  
                                                                     
                                                                           
 ### **Week 31 Videos**                                             
-**[]()**                                                      
-**[]()**                                                      
-**[]()**                                                      
+**[Imagineer](https://www.candidcareer.com/video-imagineer,7437a1309dc64e4db32a)**                                                      
+**[Optometrist](https://www.candidcareer.com/video-optometrist,e2b086e5bfcae50d9ffa)**                                                      
+**[Project Manager Engineer](https://www.candidcareer.com/video-mechanical+engineer,0c82f306c1b8251b8a6a)**                                                      
                                                        
