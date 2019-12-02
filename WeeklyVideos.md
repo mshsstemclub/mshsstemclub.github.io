@@ -68,7 +68,8 @@ A video about the STEM club grant that we received from the National Science Fou
 
 
 ### **Week 13 Videos**                                
-**[Urban Planner](https://careerinstem.com/product/urban-planner/)**                  
+**[Urban Planner](https://careerinstem.com/product/urban-planner/)**                             
+**[Pediatrician](https://www.candidcareer.com/video-pediatrician,310896dce21303a8e7fd)**                   
 **[Ultrasound Technologist](https://careerinstem.com/product/ultrasound-technologist/)**                                     
 **[Software Engineer](https://www.candidcareer.com/video-software+engineer,f7dff83fc607c5044b2b)**                         
 
@@ -118,46 +119,46 @@ A video about the STEM club grant that we received from the National Science Fou
 ### **Week 22 Videos**                                
 **[Demographer](https://careerinstem.com/product/demographer/)**                         
 **[Drone Pilot](https://careerinstem.com/product/drone-pilot/)**                 
-**[]()**                                                      
+**[Bioedical Engineer Analyst](https://www.candidcareer.com/video-biomedical+engineer,dca127d0429d73c443af)**                                                      
                                                                        
 
 ### **Week 23 Videos**                                
 **[Paleoanthropologist](https://careerinstem.com/product/paleoanthropologist/)**                                                                   
 **[Zoologist](https://careerinstem.com/product/zoologist/)**                            
-**[]()**                                                      
+**[Mathematician](https://www.candidcareer.com/video-athlete+and+mathematician,1c92bef604c7ad68380d)**                                                      
                                                                                
                                                 
 ### **Week 24 Videos**                                             
 **[Hydrologist](https://careerinstem.com/product/hydrologist/)**                                                       
 **[Nematologist](https://careerinstem.com/product/nematologist/)**                                                                              
-**[]()**                                                      
+**[GIS Specialist](https://www.candidcareer.com/video-gis+specialist,bee2be86aa2559ade080)**                                                      
 
 ### **Week 25 Videos**                                             
 **[Zoonotic Epidemiologist](https://careerinstem.com/product/zoonotic-epidemiologist/)**                       
-**[]()**                                                      
-**[]()**                                                      
+**[Business Analyst](https://www.candidcareer.com/video-business+analyst,1b06e5749a83e6bed239)**                                                      
+**[Lab Technician](https://www.candidcareer.com/video-lab+technician,ba91fffadbdb5a3a9db1)**                                                      
                                                                                                                                                                               
                                                                               
 ### **Week 26 Videos**                                             
-**[]()**                                                      
-**[]()**                                                      
-**[]()**                                                      
+**[Lab Manager](https://www.candidcareer.com/video-lab+manager,defa0b8f4f6fa7ff8ef5)**                                                      
+**[Molecular Biologist](https://www.candidcareer.com/video-molecular+biologist,c5b1d3e126f44619243b)**                                                      
+**[Nurse Practitioner](https://www.candidcareer.com/video-nurse+practitioner,b752bd7099ed3c9d9ea3)**                                                      
                                                      
                                                                             
 ### **Week 27 Videos**                                             
-**[]()**                                                      
+**[Medical Researcher](https://www.candidcareer.com/video-medical+scientist,b32b07dd7f645153ee35)**                                                      
 **[]()**                                                      
 **[]()**                                                      
                                                      
                                                                         
 ### **Week 28 Videos**                                             
-**[]()**                                                      
-**[]()**                                                      
+**[Neuroscientist](https://www.candidcareer.com/video-neuroscientist,2a84b9295c4787772944)**                                                      
+**[Occupational Therapist](https://www.candidcareer.com/video-occupational+therapist,302bf877f1f11e8ffef5)**                                                      
 **[]()**                                                      
                                                                        
                                                                        
 ### **Week 29 Videos**                                             
-**[]()**                                                      
+**[Nuclear Medicine Technician](https://www.candidcareer.com/video-nuclear+medicine+technologist,2c110d21287b3dad1386)**                                                      
 **[]()**                                                      
 **[]()**                                                      
                                                                                    
@@ -165,7 +166,7 @@ A video about the STEM club grant that we received from the National Science Fou
 ### **Week 30 Videos**                                             
 **[]()**                                                      
 **[]()**                                                      
-**[]()**                                                      
+**[Ultrasound Technologist](https://careerinstem.com/product/ultrasound-technologist/)**                                  
                                                                     
                                                                           
 ### **Week 31 Videos**                                             
