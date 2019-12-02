@@ -82,5 +82,89 @@ Project lead - TBD
 
 ### **Week 14 Project**
 Refraction Activity                                                                
-Project lead - Mr. Koker
+Project lead - TBD                                            
+
+
+### **Week 15 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 16 Project**
+TBD                                                               
+Project lead - TBD                                            
+
+
+### **Week 17 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 18 Project**
+TBD                                                               
+Project lead - TBD    
+                                                 
+                                                 
+### **Week 19 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 20 Project**
+TBD                                                               
+Project lead - TBD    
+
+
+### **Week 21 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 22 Project**
+TBD                                                               
+Project lead - TBD    
+
+
+### **Week 23 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 24 Project**
+TBD                                                               
+Project lead - TBD    
+
+
+### **Week 25 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 26 Project**
+TBD                                                               
+Project lead - TBD    
+
+### **Week 27 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 28 Project**
+TBD                                                               
+Project lead - TBD    
+
+
+### **Week 29 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 30 Project**
+TBD                                                               
+Project lead - TBD    
+
+
+### **Week 31 Project**
+TBD                                                               
+Project lead - TBD
 
