@@ -75,14 +75,14 @@ Soldering Day 2 Activity
 Project lead - Mr. Walmer
 
 
-### **Week 13 Project**
-Paper holder for lens Activity                                                                
-Project lead - TBD
+### **[Week 13 Project](MotorOpenBuild.html)**
+Motor Open Build Activity                                                               
+Project lead - Mr. Koker
 
 
-### **Week 14 Project**
-Refraction Activity                                                                
-Project lead - TBD                                            
+### **[Week 14 Project](MotorOpenBuild2.html)**
+Motor Open Build Day 2 Activity                                                               
+Project lead - Mr. Koker                                                                    
 
 
 ### **Week 15 Project**
