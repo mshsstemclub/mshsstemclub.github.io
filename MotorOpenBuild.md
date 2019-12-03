@@ -9,7 +9,7 @@ layout: navbar
 
 ## **STEM Club Week 13 Project**
 
-![](images/STEMClubProjectWeek12A.jpeg)  
+![](images/STEMClubProjectWeek13A.jpeg)  
 
 # **Motor Open Build Activity**
 
