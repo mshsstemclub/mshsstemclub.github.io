@@ -29,12 +29,7 @@ project with no set objective.  Each group took a different direction with what 
 ![](images/STEMClubProjectWeek14D.jpeg)
 
 ![](images/STEMClubProjectWeek14E.jpeg)                                                                    
-
-![](images/STEMClubProjectWeek14F.jpeg)                                                                    
-
-![](images/STEMClubProjectWeek14G.jpeg)                                                                    
-
-![](images/STEMClubProjectWeek14H.jpeg)                                                                    
+                                                                   
 
 
 
