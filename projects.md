@@ -86,7 +86,7 @@ Project lead - Mr. Koker
 
 
 ### **[Week 15 Project](MotorOpenBuild3.html)**
-Motor Open Build Day 2 Activity                                                               
+Motor Open Build Day 3 Activity                                                               
 Project lead - Mr. Koker                                                                    
                                                                                   
 
