@@ -18,7 +18,10 @@ Our STEM Club is an informal, noncompetitive group of students and sponsors dedi
                                                                                           
                                                                                                       
                                                                                                            
-                                                                                                            
+                
+                                                                                                                                       
+                                                                                                                                             
+                                                                                                                                              
 ## **STEM Club Grant Video**
 This is a short video about the STEM club grant that our high school received from the National Science Foundation.
 
@@ -28,7 +31,7 @@ This is a short video about the STEM club grant that our high school received fr
 
 
 This is information about the creation of the STEM Club.
-
+       
 
 
 ### **[STEM Club Grant Project Article 1](https://ece.illinois.edu/newsroom/article/34060)**
