@@ -12,7 +12,10 @@ Our STEM Club is an informal, noncompetitive group of students and sponsors dedi
 
 ![](images/STEMclubProjectWeek2A.jpg)
 
-
+                                                                               
+### **[University of Illinois Article on Mahomet-Seymour High School's STEM Club](http://www.istem.illinois.edu/news/MSHS.STEM.Club.html)**                                                                             
+                                                                                
+                                                                                
 ## **STEM Club Grant Video**
 This is a short video about the STEM club grant that our high school received from the National Science Foundation.
 
@@ -30,6 +33,7 @@ This is information about the creation of the STEM Club.
 ### **[STEM Club Grant Project Article 2](http://www.istem.illinois.edu/news/cisteme365.educators.html)**
                                                                                                                                           
 ### **[STEM Club Grant Project Article 3](http://www.istem.illinois.edu/news/cisteme365.html)**
+                                                                                           
 
 
   
