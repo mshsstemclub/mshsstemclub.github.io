@@ -90,14 +90,14 @@ Motor Open Build Day 3 Activity
 Project lead - Mr. Koker                                                                    
                                                                                   
 
-### **Week 16 Project**
-TBD                                                               
-Project lead - TBD                                            
+### **[Week 16 Project](MotorOpenBuild4.html)**
+Motor Open Build Day 4 Activity                                                               
+Project lead - Mr. Koker                                          
 
 
-### **Week 17 Project**
-TBD                                                               
-Project lead - TBD
+### **[Week 17 Project](MotorOpenBuild5.html)**
+Motor Open Build Day 5 Activity                                                               
+Project lead - Mr. Koker
 
 
 ### **Week 18 Project**
