@@ -65,14 +65,106 @@ Building Transitor Circuits Day 2 Activity
 Project lead - Mr. Walmer                                                                   
                                                                 
                                                                            
-### **Week 11 Project**
-Refraction Activity                                                                
+### **[Week 11 Project](Soldering.html)**
+Soldering Activity                                                                
+Project lead - Mr. Walmer
+
+
+### **[Week 12 Project](SolderingDay2.html)**
+Soldering Day 2 Activity                                                                
+Project lead - Mr. Walmer
+
+
+### **[Week 13 Project](MotorOpenBuild.html)**
+Motor Open Build Activity                                                               
 Project lead - Mr. Koker
 
 
-### **Week 12 Project**
-Paper holder for lens Activity                                                                
+### **[Week 14 Project](MotorOpenBuild2.html)**
+Motor Open Build Day 2 Activity                                                               
+Project lead - Mr. Koker                                                                    
+
+
+### **[Week 15 Project](MotorOpenBuild3.html)**
+Motor Open Build Day 3 Activity                                                               
+Project lead - Mr. Koker                                                                    
+                                                                                  
+
+### **Week 16 Project**
+TBD                                                               
+Project lead - TBD                                            
+
+
+### **Week 17 Project**
+TBD                                                               
 Project lead - TBD
 
 
+### **Week 18 Project**
+TBD                                                               
+Project lead - TBD    
+                                                 
+                                                 
+### **Week 19 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 20 Project**
+TBD                                                               
+Project lead - TBD    
+
+
+### **Week 21 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 22 Project**
+TBD                                                               
+Project lead - TBD    
+
+
+### **Week 23 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 24 Project**
+TBD                                                               
+Project lead - TBD    
+
+
+### **Week 25 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 26 Project**
+TBD                                                               
+Project lead - TBD    
+
+### **Week 27 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 28 Project**
+TBD                                                               
+Project lead - TBD    
+
+
+### **Week 29 Project**
+TBD                                                               
+Project lead - TBD
+
+
+### **Week 30 Project**
+TBD                                                               
+Project lead - TBD    
+
+
+### **Week 31 Project**
+TBD                                                               
+Project lead - TBD
 
