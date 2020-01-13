@@ -8,9 +8,11 @@ layout: navbar
 We bring in speakers about STEM careers.                                                 
 This is a link to the career speakers we have had come to our meetings.
 
-
-### **[Kinesiology and Molecular Biology](MeetingAlexKeeble.html)**                                                     
-Career Speaker - Alex Keeble
+                                                                               
+                                                                               
+### **[Week 17 Career Speaker](MeetingAlexKeeble.html)**
+Kinesiolgy and Molecular Biology                                                               
+Career Speaker - Alex Keeble        
 
 
                                                                                        
