@@ -97,9 +97,14 @@ Project lead - Mr. Koker
 
 ### **[Week 17 Project](MotorOpenBuild5.html)**
 Motor Open Build Day 5 Activity                                                               
-Project lead - Mr. Koker
+Project lead - Mr. Koker                                                          
 
 
+### **[Week 17 Career Speaker](MeetingAlexKeeble.html)**
+Career Speaker on Kineseolgy and Molecular Biology                                                               
+Career Speaker - Alex Keeble                                                                                    
+                                                                          
+                                                                                 
 ### **Week 18 Project**
 TBD                                                               
 Project lead - TBD    
