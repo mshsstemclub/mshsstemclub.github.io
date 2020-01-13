@@ -11,7 +11,7 @@ layout: navbar
 
 ![](images/StemClubProjectWeek17A.jpg)
 
-# **Introduction into kineseology and molecular biology**
+# **Introduction into kinesiology and molecular biology**
 Career Speaker - Alex Keeble
 
 ![](images/StemClubProjectWeek17B.jpg)
@@ -19,7 +19,7 @@ Career Speaker - Alex Keeble
 
 # **Learning about kineseology and molecular biology from Alex Keeble**                               
                                                                                             
-Alex Keeble is a double major at the University of Illinois.  He helped introduce our STEM Club to his research project.  Alek also talked to our club about kineselogy and molecular biology.
+Alex Keeble is pursuing degrees in kinesiology and molecular biology at the University of Illinois.  He helped introduce our STEM Club to his research project.  Alek also talked to our club about kineselogy and molecular biology. 
 
 
 ![](images/StemClubProjectWeek17C.jpg)
