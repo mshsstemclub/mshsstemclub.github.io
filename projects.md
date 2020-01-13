@@ -101,7 +101,7 @@ Project lead - Mr. Koker
 
 
 ### **[Week 17 Career Speaker](MeetingAlexKeeble.html)**
-Career Speaker on Kinesiolgy and Molecular Biology                                                               
+Career Speaker on Kinesiology and Molecular Biology                                                               
 Career Speaker - Alex Keeble                                                                                    
                                                                           
                                                                                  
