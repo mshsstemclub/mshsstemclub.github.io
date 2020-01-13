@@ -11,7 +11,7 @@ This is a link to the career speakers we have had come to our meetings.
                                                                                
                                                                                
 ### **[Week 17 Career Speaker](MeetingAlexKeeble.html)**
-Kinesiolgy and Molecular Biology                                                               
+Kinesiology and Molecular Biology                                                               
 Career Speaker - Alex Keeble        
 
 
