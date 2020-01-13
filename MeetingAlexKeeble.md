@@ -22,6 +22,9 @@ Career Speaker - Alex Keeble
 Alex Keeble is pursuing degrees in kinesiology and molecular biology at the University of Illinois.  He helped introduce our STEM Club to his research project.  Alek also talked to our club about kinesiology and molecular biology. 
 
 
+![](AlexKeebleSTEM ppt)
+
+
 ![](images/StemClubProjectWeek17C.jpg)
 
 
