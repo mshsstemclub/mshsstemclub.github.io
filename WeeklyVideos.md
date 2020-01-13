@@ -92,9 +92,9 @@ A video about the STEM club grant that we received from the National Science Fou
 
 
 ### **Week 17 Videos**                                
-**[Astronaut](https://careerinstem.com/product/astronaut/)**                     
 **[Bioacoustic Researcher](https://careerinstem.com/product/bioacoustic-researcher/)**                                
 **[Exercise Physiologist](https://www.candidcareer.com/video-exercise+physiologist,e13a2129d58d8d8c09a8)**            
+**[Molecular Biologist](https://www.candidcareer.com/video-molecular+biologist,c5b1d3e126f44619243b)**                    
                                                                                                    
 
 ### **Week 18 Videos**                                
@@ -140,7 +140,7 @@ A video about the STEM club grant that we received from the National Science Fou
                                                                               
 ### **Week 25 Videos**                                             
 **[Lab Manager](https://www.candidcareer.com/video-lab+manager,defa0b8f4f6fa7ff8ef5)**                                                      
-**[Molecular Biologist](https://www.candidcareer.com/video-molecular+biologist,c5b1d3e126f44619243b)**                                                      
+**[Astronaut](https://careerinstem.com/product/astronaut/)**                                                 
 **[Nurse Practitioner](https://www.candidcareer.com/video-nurse+practitioner,b752bd7099ed3c9d9ea3)**                                                      
                                                      
                                                                             
