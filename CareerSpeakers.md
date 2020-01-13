@@ -6,7 +6,7 @@ layout: navbar
 
 
 We bring in speakers about STEM careers.                                                 
-This is a link to the career speakers we have had come to our meetings.
+This is a link to the meetings we had with career speakers.
 
                                                                                
                                                                                
