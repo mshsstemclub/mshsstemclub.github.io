@@ -27,7 +27,7 @@ Alex Keeble got an article about his reseach published.  His research was on how
 ### **[Potato as an effective carbohydrate for boosting athletic performance research article](https://news.illinois.edu/view/6367/803645)**
                                                                             
                                                                             
-![](/documents/AlexKeebleSTEM..pptx)
+## **[Powerpoint of presentation](/documents/AlexKeebleSTEM..pptx)**
                                                                              
                                                                                                     
 ![](images/StemClubProjectWeek17C.jpg)
