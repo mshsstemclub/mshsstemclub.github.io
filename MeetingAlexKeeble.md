@@ -20,10 +20,12 @@ Career Speaker - Alex Keeble
 # **Learning about kinesiology and molecular biology from Alex Keeble**                               
                                                                                             
 Alex Keeble is pursuing degrees in kinesiology and molecular biology at the University of Illinois.  He helped introduce our STEM Club to his research project.  Alex also talked to our club about kinesiology and molecular biology. 
-         
+                                                                         
+![](images/StemClubProjectWeek17C.jpg)
+                                                            
 ## **[Powerpoint of Alex's presentation](/documents/AlexKeebleSTEM..pptx)**
-                             
-                             
+                                                       
+
                              
                                                                                         
 Alex Keeble got an article about his reseach published.  His research was on how potato can be as effective as carbohydrate gels for boosting athletic performance.                                                                                        
@@ -32,9 +34,6 @@ Alex Keeble got an article about his reseach published.  His research was on how
                                                                             
                                                                              
                                                                                                     
-![](images/StemClubProjectWeek17C.jpg)
-
-
 ![](images/StemClubProjectWeek17D.jpg)
 
 
@@ -42,9 +41,6 @@ Alex Keeble got an article about his reseach published.  His research was on how
 
 
 ![](images/StemClubProjectWeek17F.jpg)
-
-
-![](images/StemClubProjectWeek17G.jpg)
 
 
 ![](images/StemClubProjectWeek17H.jpg)
