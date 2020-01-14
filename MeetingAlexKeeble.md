@@ -9,19 +9,19 @@ layout: navbar
 
 ## **STEM Club Week 17 Career Speaker**
 
-![](images/StemClubProjectWeek17A.jpg)
+![](images/STEMClubProjectWeek17A.jpg)
 
 # **Introduction into kinesiology and molecular biology**
 Career Speaker - Alex Keeble
 
-![](images/StemClubProjectWeek17B.jpg)
+![](images/STEMClubProjectWeek17B.jpg)
 
 
 # **Learning about kinesiology and molecular biology from Alex Keeble**                               
                                                                                             
 Alex Keeble is pursuing degrees in kinesiology and molecular biology at the University of Illinois.  He helped introduce our STEM Club to his research project.  Alex also talked to our club about kinesiology and molecular biology. 
                                                                          
-![](images/StemClubProjectWeek17C.jpg)
+![](images/STEMClubProjectWeek17C.jpg)
                                                             
 ## **[Powerpoint of Alex's presentation](/documents/AlexKeebleSTEM..pptx)**
                                                        
@@ -34,16 +34,16 @@ Alex Keeble got an article about his reseach published.  His research was on how
                                                                             
                                                                              
                                                                                                     
-![](images/StemClubProjectWeek17D.jpg)
+![](images/STEMClubProjectWeek17D.jpg)
 
 
-![](images/StemClubProjectWeek17E.jpg)
+![](images/STEMClubProjectWeek17E.jpg)
 
 
-![](images/StemClubProjectWeek17F.jpg)
+![](images/STEMClubProjectWeek17F.jpg)
 
 
-![](images/StemClubProjectWeek17H.jpg)
+![](images/STEMClubProjectWeek17H.jpg)
 
 
 
