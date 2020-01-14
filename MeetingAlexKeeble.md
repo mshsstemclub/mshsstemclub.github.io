@@ -40,10 +40,10 @@ Alex Keeble got an article about his reseach published.  His research was on how
 ![](images/STEMClubProjectWeek17E.jpeg)
 
 
-![](images/STEMClubProjectWeek17F.jpeg)
-
-
 ![](images/STEMClubProjectWeek17H.jpeg)
+
+
+![](images/STEMClubProjectWeek17F.jpeg)
 
 
 
