@@ -43,7 +43,7 @@ Alex Keeble got an article about his reseach published.  His research was on how
 ![](images/STEMClubProjectWeek17H.jpeg)
 
 
-![](images/STEMClubProjectWeek17F.jpeg)
+
 
 
 
