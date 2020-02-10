@@ -32,3 +32,5 @@ This project students worked into groups of their choosing.  Each group was give
 
 ![](images/STEMClubProjectWeek20G.jpeg)                                                                    
 
+![](images/STEMClubProjectWeek20H.jpeg)                                                                    
+
