@@ -118,7 +118,7 @@ A video about the STEM club grant that we received from the National Science Fou
 ### **Week 21 Videos**                                
 **[Demographer](https://careerinstem.com/product/demographer/)**                         
 **[Drone Pilot](https://careerinstem.com/product/drone-pilot/)**                 
-**[Bioedical Engineer Analyst](https://www.candidcareer.com/video-biomedical+engineer,dca127d0429d73c443af)**                                                      
+**[Biomedical Engineer Analyst](https://www.candidcareer.com/video-biomedical+engineer,dca127d0429d73c443af)**                                                      
                                                                        
                                                                        
 ### **Week 22 Videos**                                
