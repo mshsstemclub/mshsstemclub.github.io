@@ -9,7 +9,7 @@ layout: navbar
 
 ## **STEM Club Week 21 Project**
 
-![](images/STEMClubProjectWeek21A.jpeg)  
+![](images/STEMClubProjectWeek21F.jpeg)  
 
 # **Bottle Rocket Project and Launch Day 1**
 
@@ -27,7 +27,7 @@ This project students worked into groups of their choosing.  Each group was give
 
 ![](images/STEMClubProjectWeek21E.jpeg) 
 
-![](images/STEMClubProjectWeek21F.jpeg) 
+![](images/STEMClubProjectWeek21A.jpeg) 
 
 ![](images/STEMClubProjectWeek21G.jpeg) 
 
