@@ -130,9 +130,9 @@ Creating a Bottle Rocket to Launch
 Project lead - Mr. Koker    
                                               
                                            
-### **[Week 12 Career Speaker](MeetingBioChemGradStudents.html)**
-Career Speaker on BioChem                                                           
-Career Speaker -                                                                                  
+### **[Week 22 Career Speakers](MeetingBioChemGradStudents.html)**
+Career Speakers on BioChem                                                           
+Career Speakers -                                                                                  
 
 
 ### **Week 23 Project**
