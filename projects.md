@@ -120,14 +120,19 @@ The relationship between Voltage and Temperature Activity
 Project lead - Mr. Koker
 
 
-### **Week 21 Project**
-TBD                                                               
-Project lead - TBD
+### **[Week 21 Project](BottleRocketProjectAndLaunchDay1)**
+Creating a Bottle Rocket to Launch
+Project lead - Mr. Koker
 
 
-### **Week 22 Project**
-TBD                                                               
-Project lead - TBD    
+### **[Week 22 Project](BottleRocketProjectAndLaunchDay2)**
+Creating a Bottle Rocket to Launch
+Project lead - Mr. Koker    
+                                              
+                                           
+### **[Week 12 Career Speaker](MeetingBioChemGradStudents.html)**
+Career Speaker on BioChem                                                           
+Career Speaker -                                                                                  
 
 
 ### **Week 23 Project**
