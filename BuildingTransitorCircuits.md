@@ -1,28 +1,28 @@
 ---
 title: Week 9 Project
-description: Building Transitor Circuits
+description: Building Transistor Circuits
 layout: navbar
 ---
 
-**The Mahomet-Seymour High School STEM Club provides opportunities for students to participate and lead STEM projects each meeting.** 
+**The Mahomet-Seymour High School STEM Club provides opportunities for students to participate and lead STEM projects each meeting.**
 
 
 ## **STEM Club Week 9 Project**
 
 ![](images/STEMClubProjectWeek9K.jpeg)  
 
-# **Building Transitor Circuits**
+# **Building Transistor Circuits**
 
 Project lead - Mr. Walmer
 
-                                                                                      
 
-This project students worked together to build transitor circuits. 
-Each group of students wer given a kit with a bread board, capacitors, resistors, transistors, a battery pack, and LED.
-                                                                                         
+
+This project students worked together to build transistor circuits.
+Each group of students were given a kit with a bread board, capacitors, resistors, transistors, a battery pack, and LED.
+
 ![](images/STEMClubProjectWeek9B.jpeg)                                                                                                    
-                                                                                                         
-                                                                                                                
+
+
 ![](images/STEMClubProjectWeek9C.jpeg)                                                                    
 
 ![](images/STEMClubProjectWeek9D.jpeg)
@@ -54,4 +54,3 @@ Each group of students wer given a kit with a bread board, capacitors, resistors
 ![](images/STEMClubProjectWeek9R.jpeg)                                                                    
 
 ![](images/STEMClubProjectWeek9S.jpeg)
-

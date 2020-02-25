@@ -4,7 +4,7 @@ description: Building a resistor circuit to provide light from an LED
 layout: navbar
 ---
 
-**The Mahomet-Seymour High School STEM Club provides opportunities for students to participate and lead STEM projects each meeting.** 
+**The Mahomet-Seymour High School STEM Club provides opportunities for students to participate and lead STEM projects each meeting.**
 
 
 ## **STEM Club Week 6 Project**
@@ -17,7 +17,7 @@ Project lead - Mr. Walmer
 
 ![](images/STEMClubProjectWeek6B.jpg)
 
-This project students worked together to build a resistor circuit to provide maximum light output from an LED while maintaing safe current.      
+This project students worked together to build a resistor circuit to provide maximum light output from an LED while maintaining safe current.      
 
 Students were given a quick lesson on Ohms, volts, and amps.                                   
 
@@ -28,10 +28,10 @@ Kirchoff's Law (KVL): Voltage dropped in closed loop is zero, energy conservatio
 Current Law (KCL): Current flowing into junction point equals current flowing out, charge conservation.                   
 
 Students used probe cables, a Protoboard, resistors, LED, battery clips.                    
-                                                                                         
-                                                                                                     
-                                                                                                           
-                                                                                                                
+
+
+
+
 ![](images/STEMClubProjectWeek6A.jpg)                                                                    
 
 ![](images/STEMClubProjectWeek6C.jpg)
