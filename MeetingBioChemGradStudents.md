@@ -41,19 +41,3 @@ Rachel and Max talked about their own experiences and gave great advice on colle
 
 
 
-
-
-
-Alex Keeble got an article about his research published.  His research was on how potato can be as effective as carbohydrate gels for boosting athletic performance.                                                                                        
-### **[Potato as an effective carbohydrate for boosting athletic performance research article](https://news.illinois.edu/view/6367/803645)**
-
-
-
-
-![](images/STEMClubProjectWeek17D.jpeg)
-
-
-![](images/STEMClubProjectWeek17E.jpeg)
-
-
-![](images/STEMClubProjectWeek17H.jpeg)
