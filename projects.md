@@ -132,7 +132,7 @@ Project lead - Mr. Koker
                                            
 ### **[Week 22 Career Speakers](MeetingBioChemGradStudents.html)**
 Career Speakers on BioChem                                                           
-Career Speakers -                                                                                  
+Career Speakers - Max Baymiller and Rachel Martini                                                                                 
 
 
 ### **Week 23 Project**
