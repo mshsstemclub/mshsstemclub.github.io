@@ -124,20 +124,15 @@ Project lead - Mr. Koker
 Creating a Bottle Rocket to Launch
 Project lead - Mr. Koker
 
-
-### **[Week 22 Project](BottleRocketProjectAndLaunchDay2)**
-Creating a Bottle Rocket to Launch
-Project lead - Mr. Koker    
-                                              
-                                           
+                                                                                       
 ### **[Week 22 Career Speakers](MeetingBioChemGradStudents.html)**
 Career Speakers on BioChem                                                           
 Career Speakers - Max Baymiller and Rachel Martini                                                                                 
 
 
-### **Week 23 Project**
-TBD                                                               
-Project lead - TBD
+### **[Week 23 Project](BottleRocketProjectAndLaunchDay2)**
+Creating a Bottle Rocket to Launch
+Project lead - Mr. Koker    
 
 
 ### **Week 24 Project**
@@ -153,6 +148,7 @@ Project lead - TBD
 ### **Week 26 Project**
 TBD                                                               
 Project lead - TBD    
+
 
 ### **Week 27 Project**
 TBD                                                               
