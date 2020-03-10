@@ -131,7 +131,7 @@ Career Speakers - Max Baymiller and Rachel Martini
 
 
 ### **[Week 23 Project](BottleRocketProjectAndLaunchDay2)**
-Creating a Bottle Rocket to Launch
+Creating a Bottle Rocket to Launch Day 2
 Project lead - Mr. Koker    
 
 
